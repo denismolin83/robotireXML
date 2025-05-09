@@ -3,16 +3,20 @@ import requests
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
+from scr.config import settings
+import os
 
-url = 'https://lk.robotyre.ru/Shop/MarketUnloadings/GetYandexMarketUnloading?customerId=48691'
-response = requests.get(url=url)
+response = requests.get(url=settings.URL_XML)
 xml_data = response.content
 
 root = ET.fromstring(xml_data)
 
+current_dir = os.path.dirname(__file__)
+parent_dir = os.path.dirname(current_dir)
+file_path = os.path.join(parent_dir, settings.CREDENTIALS_FILE)
 #Установка соединения с Гугл таблицами
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name('robotyrexml-97b85c8843b9.json', scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name(file_path, scope)
 client = gspread.authorize(creds)
 spreadsheet = client.open('robotire_XML')
 worksheet = spreadsheet.get_worksheet(0)
