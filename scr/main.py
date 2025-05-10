@@ -1,25 +1,14 @@
-import xml.etree.ElementTree as ET
-import requests
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
 from scr.config import settings
-import os
+from scr.utils.get_worksheet import get_worksheet
+from scr.utils.get_xml_root import get_xml_root
 
-response = requests.get(url=settings.URL_XML)
-xml_data = response.content
+#получаем корневой элемент xml роботайра по ссылке
+root = get_xml_root(settings.URL_XML)
 
-root = ET.fromstring(xml_data)
-
-current_dir = os.path.dirname(__file__)
-parent_dir = os.path.dirname(current_dir)
-file_path = os.path.join(parent_dir, settings.CREDENTIALS_FILE)
-#Установка соединения с Гугл таблицами
-scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name(file_path, scope)
-client = gspread.authorize(creds)
-spreadsheet = client.open('robotire_XML')
-worksheet = spreadsheet.get_worksheet(0)
+#получаем лист с данными шин из Гугл таблиц, для
+#сравнения с данными из роботайра
+worksheet = get_worksheet(name_sheet=settings.SPREADSHEET)
 
 data = []
 
