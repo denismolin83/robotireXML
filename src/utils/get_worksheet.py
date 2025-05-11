@@ -2,7 +2,7 @@ import os
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
-from scr.config import settings
+from src.config import settings
 
 
 def get_worksheet(name_sheet: str):
