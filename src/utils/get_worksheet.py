@@ -5,7 +5,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 from src.config import settings
 
 
-def get_worksheet(name_sheet: str):
+def get_worksheet(name_sheet: str) -> gspread.Worksheet:
     current_dir = os.path.dirname(__file__)
     parent_dir = os.path.dirname(current_dir)
     file_path = os.path.join(os.path.dirname(parent_dir), settings.CREDENTIALS_FILE)
