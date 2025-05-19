@@ -15,6 +15,7 @@ def add_or_update_element(lst: list[dict], element: dict) -> list[dict]:
     lst.append(element.copy())
     return lst
 
+
 #Обновляем данные в листе и добавляем новый элемент если его нет в листе
 def update_data_in_worksheet(worksheet: Wor, root: ET.Element):
     data = worksheet.get_all_records()
@@ -22,8 +23,7 @@ def update_data_in_worksheet(worksheet: Wor, root: ET.Element):
     print(len(data), data)
     print('------------------')
 
-
-    for index, offer in enumerate(root.findall('.//offer')):
+    for offer in root.findall('.//offer'):
         new_element['id'] = int(offer.get('id'))
         new_element['name'] = offer.find('name').text
         new_element['count'] = int(offer.find('count').text)

@@ -1,0 +1,705 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2025-05-19T04:09+07:00">
+  <shop>
+    <name>Интеркар-Колёса</name>
+    <company>ИП Молин Денис Владимирович</company>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="10">Авто</category>
+      <category id="100" parentId="10">Шины и диски</category>
+      <category id="102" parentId="100">Шины</category>
+      <category id="101" parentId="100">Диски</category>
+      <category id="104" parentId="100">Грузовые шины</category>
+      <category id="103" parentId="100">Грузовые диски</category>
+      <category id="105" parentId="100">спецшины</category>
+    </categories>
+    <offers>
+      <offer id="271149">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTE30116G14HHJ</vendorCode>
+        <price>5200</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d0a916fa3efc4bbba37b50b723e1a446/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 165/65 14 79H Triangle TE301</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">165.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">14.00</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">79H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>5.90</weight>
+        <dimensions>57/57/16.5</dimensions>
+        <param name="Объем">0.05</param>
+        <count>8</count>
+      </offer>
+      <offer id="331315">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>15600</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d6e153a091ef4981a7d35d1e3ce10624/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 245/45 20 103V Triangle PL02</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">245.00</param>
+        <param name="Высота">45.00</param>
+        <param name="Диаметр">20.00</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>15.30</weight>
+        <dimensions>72.8/72.8/24.5</dimensions>
+        <param name="Объем">0.13</param>
+        <count>10</count>
+      </offer>
+      <offer id="408567">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>11050</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d6e153a091ef4981a7d35d1e3ce10624/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 245/55 19 107V Triangle PL02</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">245.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">19.00</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">107V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>0.00</weight>
+        <dimensions>75.2/75.2/24.5</dimensions>
+        <param name="Объем">0.14</param>
+        <count>8</count>
+      </offer>
+      <offer id="351730">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>13980</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d6e153a091ef4981a7d35d1e3ce10624/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 255/50 20 109V Triangle PL02</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">255.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">20.00</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">109V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>17.10</weight>
+        <dimensions>76.3/76.3/25.5</dimensions>
+        <param name="Объем">0.15</param>
+        <count>8</count>
+      </offer>
+      <offer id="354767">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>9490</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d6e153a091ef4981a7d35d1e3ce10624/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/60 18 104V Triangle PL02</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">18.00</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">104V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>13.30</weight>
+        <dimensions>72.7/72.7/22.5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>12</count>
+      </offer>
+      <offer id="338009">
+        <vendor>Yokohama</vendor>
+        <vendorCode>R5711</vendorCode>
+        <price>13620</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/a0d769b8c5a6411c947411e7c2e8fd2e/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 215/65 16 98H Yokohama Geolandar CV G058</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">215.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">16.00</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">98H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>12.20</weight>
+        <dimensions>68.6/68.6/21.5</dimensions>
+        <param name="Объем">0.10</param>
+        <count>12</count>
+      </offer>
+      <offer id="251267">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTR25724J19VHJ</vendorCode>
+        <price>14300</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/1c648cc174da4691b116c989cc8abaed/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 245/55 19 103V Triangle TR257</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">245.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">19.00</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>0.00</weight>
+        <dimensions>75.2/75.2/24.5</dimensions>
+        <param name="Объем">0.14</param>
+        <count>8</count>
+      </offer>
+      <offer id="253839">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTR75722L18TF0</vendorCode>
+        <price>12020</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/c67a709e1482451991fb5dc9a324019b/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/45 18 95T Triangle TR757</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">45.00</param>
+        <param name="Диаметр">18.00</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">95T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>9.80</weight>
+        <dimensions>66/66/22.5</dimensions>
+        <param name="Объем">0.10</param>
+        <count>12</count>
+      </offer>
+      <offer id="194009">
+        <vendor>Triangle</vendor>
+        <vendorCode>CTS228047</vendorCode>
+        <price>10660</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/66b1b86d8ac241d580fcdd699d16618d/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/65 17 102H Triangle TR928</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">17.00</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">102H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>13.60</weight>
+        <dimensions>72.4/72.4/22.5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>8</count>
+      </offer>
+      <offer id="254348">
+        <vendor>Triangle</vendor>
+        <vendorCode>CTS164395</vendorCode>
+        <price>9100</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/6c2677bf6b064ffabd0c5eefe631bed2/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/60 17 103R Triangle PL01</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">17.00</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>13.70</weight>
+        <dimensions>70.2/70.2/22.5</dimensions>
+        <param name="Объем">0.11</param>
+        <count>12</count>
+      </offer>
+      <offer id="350112">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>14620</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/6c2677bf6b064ffabd0c5eefe631bed2/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 245/50 20 102T Triangle PL01</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">245.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">20.00</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">102T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>17.10</weight>
+        <dimensions>75.3/75.3/24.5</dimensions>
+        <param name="Объем">0.14</param>
+        <count>8</count>
+      </offer>
+      <offer id="271167">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>5200</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/6c2677bf6b064ffabd0c5eefe631bed2/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/60 15 88R Triangle PL01</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">15.00</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">88R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>8.30</weight>
+        <dimensions>60.3/60.3/18.5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>8</count>
+      </offer>
+      <offer id="257495">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTRPL118G15RFJ</vendorCode>
+        <price>5590</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/6c2677bf6b064ffabd0c5eefe631bed2/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/65 15 92R Triangle PL01</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">15.00</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">92R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>7.90</weight>
+        <dimensions>62.2/62.2/18.5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>8</count>
+      </offer>
+      <offer id="333585">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>14300</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d9db88e9f70947d2b786b5801ad73dc6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/55 19 105T Triangle IcelynX TI501</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">19.00</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">105T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>15.10</weight>
+        <dimensions>74.1/74.1/23.5</dimensions>
+        <param name="Объем">0.13</param>
+        <count>16</count>
+      </offer>
+      <offer id="284702">
+        <vendor>Yokohama</vendor>
+        <vendorCode>R2432</vendorCode>
+        <price>7480</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/cd22d914971343d492a549b2058c1c10/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/65 15 88H Yokohama Bluearth ES32</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">15.00</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">88H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>7.90</weight>
+        <dimensions>62.2/62.2/18.5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>30</count>
+      </offer>
+      <offer id="377866">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>7020</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d9db88e9f70947d2b786b5801ad73dc6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/60 15 88T Triangle IcelynX TI501</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">15.00</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">88T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>8.30</weight>
+        <dimensions>60.3/60.3/18.5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>8</count>
+      </offer>
+      <offer id="336092">
+        <vendor>ZETA</vendor>
+        <vendorCode />
+        <price>15080</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/5288f69c92c14db199bc85868bdb469a/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/55 19 103T ZETA Antarctica Sport</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">19.00</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>0.00</weight>
+        <dimensions>73/73/22.5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>12</count>
+      </offer>
+      <offer id="397400">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTH20222K17YFJ</vendorCode>
+        <price>9490</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/71c9e37334354b1db0055ff2938bdf2c/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/50 17 98Y Triangle EffeXSport TH202</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">17.00</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">98Y</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>12.50</weight>
+        <dimensions>65.7/65.7/22.5</dimensions>
+        <param name="Объем">0.10</param>
+        <count>10</count>
+      </offer>
+      <offer id="388564">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTH20222M18YFJ</vendorCode>
+        <price>9620</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/71c9e37334354b1db0055ff2938bdf2c/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/40 18 92Y Triangle EffeXSport TH202</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">40.00</param>
+        <param name="Диаметр">18.00</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">92Y</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>10.50</weight>
+        <dimensions>63.7/63.7/22.5</dimensions>
+        <param name="Объем">0.09</param>
+        <count>20</count>
+      </offer>
+      </offers>
+  </shop>
+</yml_catalog>
