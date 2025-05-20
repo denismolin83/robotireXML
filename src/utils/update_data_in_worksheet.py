@@ -7,7 +7,10 @@ import pandas as pd
 def add_or_update_element(lst: list[dict], element: dict) -> list[dict]:
     for item in lst:
         if item['id'] == element['id']:
-            element['status_ya'] = item['status_ya']
+            if item['count']:
+                element['status_ya'] = item['status_ya']
+            else:
+                element['status_ya'] = StatusYa.NEW.value
             item.update(element)
             return lst
 
@@ -28,9 +31,10 @@ def update_data_in_worksheet(worksheet: Wor, root: ET.Element):
         new_element['name'] = offer.find('name').text
         new_element['count'] = int(offer.find('count').text)
         new_element['price'] = int(offer.find('price').text)
+        new_element['picture'] = offer.find('picture').text
         data = add_or_update_element(data, new_element)
 
     print(len(data), data)
 
-    df = pd.DataFrame(data, columns=['id', 'name', 'count', 'price', 'status_ya'])
+    df = pd.DataFrame(data, columns=['id', 'name', 'count', 'price', 'status_ya', 'picture'])
     worksheet.update([df.columns.values.tolist()] + df.values.tolist())

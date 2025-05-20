@@ -3,7 +3,7 @@ from xml.etree import ElementTree as ET
 from src.utils.save_to_ftp import save_to_ftp
 
 
-def delete_elements(worksheet: Wor, tree: ET.ElementTree, filename: str):
+def delete_elements(worksheet: Wor, tree: ET.ElementTree, filename_local: str):
     data = worksheet.get_all_records()
     root = tree.getroot()
 
@@ -25,16 +25,5 @@ def delete_elements(worksheet: Wor, tree: ET.ElementTree, filename: str):
     for offer in offers_to_delete:
         root.find('.//offers').remove(offer)
 
-
-
-    # print(len(offers))
-
-    # print('-----------------------------------')
-    #
-    # for offer in root.findall('.//offer'):
-    #     print(offer.get('id'), offer.find('name').text)
-
-    tree.write(filename, encoding='UTF-8', xml_declaration=True)
-
-    save_to_ftp(file_parth=filename)
+    tree.write(filename_local, encoding='UTF-8', xml_declaration=True)
 
