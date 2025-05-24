@@ -14,8 +14,6 @@ root = tree.getroot()
 #сравнения с данными из роботайра
 worksheet = get_worksheet(name_sheet=settings.SPREADSHEET)
 
-
-
 #Обновляем данные в листе и добавляем новый элемент если его нет в листе
 update_data_in_worksheet(worksheet=worksheet, root=root)
 
