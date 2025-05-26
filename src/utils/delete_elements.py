@@ -1,3 +1,4 @@
+from frplib.parsing.kind_strings import weight
 from gspread.worksheet import Worksheet as Wor
 from xml.etree import ElementTree as ET
 
@@ -24,6 +25,11 @@ def delete_elements(worksheet: Wor, tree: ET.ElementTree, filename_local: str):
         #Добавляем зачеркнутую цену
         old_price = ET.SubElement(offer, 'oldprice')
         old_price.text = str(round(int(offer.find('price').text) * 1.1))
+
+        # проверяем есть ли вес
+        weight_element = offer.find('weight')
+        if not float(weight_element.text):
+            weight_element.text = str(round(float(114) * float(offer.find('param[@name="Объем"]').text), 2))
 
         #Диаметр - привод в соответствие с требованиями
         diameter_param = offer.find('.//param[@name="Диаметр"]')
