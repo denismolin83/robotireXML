@@ -16,14 +16,14 @@ root = tree.getroot()
 worksheet = get_worksheet(name_sheet=settings.SPREADSHEET)
 
 #Обновляем данные в листе и добавляем новый элемент если его нет в листе
-update_data_in_worksheet(worksheet=worksheet, root=root)
+#update_data_in_worksheet(worksheet=worksheet, root=root)
 
 #Формируем файла output.xml с только нужными шинами
-delete_elements(worksheet=worksheet, tree=tree, filename_local='output.xml')
+#delete_elements(worksheet=worksheet, tree=tree, filename_local='output.xml')
 
 #выкладываем полученный файл на FTP shopkolesa.ru
-save_to_ftp(file_parth='output.xml')
+#save_to_ftp(file_parth='output.xml')
 
 #генерируем фото с инфографикой
-#generate_images_info(worksheet=worksheet)
+generate_images_info(worksheet=worksheet)
 

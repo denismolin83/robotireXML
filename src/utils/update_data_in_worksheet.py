@@ -36,9 +36,10 @@ def update_data_in_worksheet(worksheet: Wor, root: ET.Element):
         new_element['count'] = int(offer.find('count').text)
         new_element['price'] = int(offer.find('price').text)
         new_element['picture'] = offer.find('picture').text
+        new_element['season'] = offer.find('param[@name="Сезон"]').text.lower()
         data = add_or_update_element(data, new_element)
 
     print(len(data), data)
 
-    df = pd.DataFrame(data, columns=['id', 'name', 'count', 'price', 'status_ya', 'picture'])
+    df = pd.DataFrame(data, columns=['id', 'name', 'count', 'price', 'status_ya', 'picture', 'year', 'country', 'season'])
     worksheet.update([df.columns.values.tolist()] + df.values.tolist())
