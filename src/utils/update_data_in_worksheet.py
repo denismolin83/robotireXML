@@ -26,6 +26,10 @@ def update_data_in_worksheet(worksheet: Wor, root: ET.Element):
     print(len(data), data)
     print('------------------')
 
+    for item in data:
+        if not root.find(f'.//offer[@id="{item["id"]}"]'):
+            item['count'] = 0
+
     for offer in root.findall('.//offer'):
         new_element['id'] = int(offer.get('id'))
         new_element['name'] = offer.find('name').text

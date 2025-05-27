@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-05-26T04:19+07:00">
+<yml_catalog date="2025-05-27T10:37+07:00">
   <shop>
     <name>Интеркар-Колёса</name>
     <company>ИП Молин Денис Владимирович</company>
@@ -48,7 +48,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>5.90</weight>
-        <dimensions>57/57/16,5</dimensions>
+        <dimensions>57/57/16.5</dimensions>
         <param name="Объем">0.05</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>5676</oldprice><param name="Ширина профиля">165</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -84,7 +84,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.60</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
+        <dimensions>72.4/72.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11990</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -120,7 +120,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.80</weight>
-        <dimensions>58,7/58,7/16,5</dimensions>
+        <dimensions>58.7/58.7/16.5</dimensions>
         <param name="Объем">0.06</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>5610</oldprice><param name="Ширина профиля">165</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -156,7 +156,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>18.30</weight>
-        <dimensions>77,3/77,3/26,5</dimensions>
+        <dimensions>77.3/77.3/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18447</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -192,7 +192,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.70</weight>
-        <dimensions>76,3/76,3/25,5</dimensions>
+        <dimensions>76.3/76.3/25.5</dimensions>
         <param name="Объем">0.15</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>16885</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -228,7 +228,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.10</weight>
-        <dimensions>67,1/67,1/23,5</dimensions>
+        <dimensions>67.1/67.1/23.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>28380</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -264,7 +264,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>17.10</weight>
-        <dimensions>74,8/74,8/26,5</dimensions>
+        <dimensions>74.8/74.8/26.5</dimensions>
         <param name="Объем">0.15</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14047</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -300,9 +300,9 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.20</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
-        <count>12</count>
+        <count>8</count>
       <disabled>false</disabled><oldprice>8800</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="331212">
         <vendor>Triangle</vendor>
@@ -336,7 +336,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.30</weight>
-        <dimensions>68,7/68,7/25,5</dimensions>
+        <dimensions>68.7/68.7/25.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>12056</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -372,7 +372,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.80</weight>
-        <dimensions>66/66/22,5</dimensions>
+        <dimensions>66/66/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>15609</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -408,7 +408,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.80</weight>
-        <dimensions>69/69/21,5</dimensions>
+        <dimensions>69/69/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14465</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -444,7 +444,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.50</weight>
-        <dimensions>73,8/73,8/25,5</dimensions>
+        <dimensions>73.8/73.8/25.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>15609</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -480,7 +480,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.30</weight>
-        <dimensions>72,8/72,8/24,5</dimensions>
+        <dimensions>72.8/72.8/24.5</dimensions>
         <param name="Объем">0.13</param>
         <count>10</count>
       <disabled>false</disabled><oldprice>17028</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -516,7 +516,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.50</weight>
-        <dimensions>68,2/68,2/22,5</dimensions>
+        <dimensions>68.2/68.2/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11638</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -552,7 +552,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>30.91</weight>
-        <dimensions>87,3/87,3/31,5</dimensions>
+        <dimensions>87.3/87.3/31.5</dimensions>
         <param name="Объем">0.24</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>25685</oldprice><param name="Ширина профиля">315</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -588,7 +588,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.40</weight>
-        <dimensions>65,2/65,2/20,5</dimensions>
+        <dimensions>65.2/65.2/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>6952</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -624,7 +624,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>18.80</weight>
-        <dimensions>77,7/77,7/26,5</dimensions>
+        <dimensions>77.7/77.7/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>12419</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -660,9 +660,9 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.50</weight>
-        <dimensions>58,2/58,2/19,5</dimensions>
+        <dimensions>58.2/58.2/19.5</dimensions>
         <param name="Объем">0.07</param>
-        <count>24</count>
+        <count>20</count>
       <disabled>false</disabled><oldprice>6743</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
       <offer id="397403">
         <vendor>Sailun</vendor>
@@ -696,7 +696,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.50</weight>
-        <dimensions>65,7/65,7/22,5</dimensions>
+        <dimensions>65.7/65.7/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>10362</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -732,7 +732,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.60</weight>
-        <dimensions>69,4/69,4/21,5</dimensions>
+        <dimensions>69.4/69.4/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>13486</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -768,7 +768,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.80</weight>
-        <dimensions>66/66/22,5</dimensions>
+        <dimensions>66/66/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14894</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -804,7 +804,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.96</weight>
-        <dimensions>75,2/75,2/24,5</dimensions>
+        <dimensions>75.2/75.2/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>12056</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -840,7 +840,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>20.13</weight>
-        <dimensions>77,3/77,3/26,5</dimensions>
+        <dimensions>77.3/77.3/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>17457</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -876,7 +876,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.70</weight>
-        <dimensions>57,5/57,5/17,5</dimensions>
+        <dimensions>57.5/57.5/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>5533</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -912,7 +912,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>18.37</weight>
-        <dimensions>76,3/76,3/25,5</dimensions>
+        <dimensions>76.3/76.3/25.5</dimensions>
         <param name="Объем">0.15</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18447</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -948,7 +948,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.60</weight>
-        <dimensions>68,6/68,6/25,5</dimensions>
+        <dimensions>68.6/68.6/25.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>12419</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">35</param><param name="Камерные">Нет</param></offer>
@@ -984,7 +984,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.60</weight>
-        <dimensions>69,4/69,4/21,5</dimensions>
+        <dimensions>69.4/69.4/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>16324</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -1020,7 +1020,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>17.10</weight>
-        <dimensions>76,3/76,3/25,5</dimensions>
+        <dimensions>76.3/76.3/25.5</dimensions>
         <param name="Объем">0.15</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>15257</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -1056,7 +1056,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.80</weight>
-        <dimensions>66/66/22,5</dimensions>
+        <dimensions>66/66/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>7</count>
       <disabled>false</disabled><oldprice>12056</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -1092,7 +1092,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.30</weight>
-        <dimensions>75,6/75,6/27,5</dimensions>
+        <dimensions>75.6/75.6/27.5</dimensions>
         <param name="Объем">0.16</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14894</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -1128,7 +1128,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.30</weight>
-        <dimensions>72,7/72,7/22,5</dimensions>
+        <dimensions>72.7/72.7/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>10362</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -1164,7 +1164,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.10</weight>
-        <dimensions>72,8/72,8/27,5</dimensions>
+        <dimensions>72.8/72.8/27.5</dimensions>
         <param name="Объем">0.15</param>
         <count>6</count>
       <disabled>false</disabled><oldprice>14894</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -1200,7 +1200,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.50</weight>
-        <dimensions>78,1/78,1/27,5</dimensions>
+        <dimensions>78.1/78.1/27.5</dimensions>
         <param name="Объем">0.17</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>17732</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -1236,7 +1236,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.50</weight>
-        <dimensions>63,7/63,7/22,5</dimensions>
+        <dimensions>63.7/63.7/22.5</dimensions>
         <param name="Объем">0.09</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>10648</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -1272,7 +1272,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>21.45</weight>
-        <dimensions>79,9/79,9/28,5</dimensions>
+        <dimensions>79.9/79.9/28.5</dimensions>
         <param name="Объем">0.18</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>20570</oldprice><param name="Ширина профиля">285</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -1308,7 +1308,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.50</weight>
-        <dimensions>71,2/71,2/25,5</dimensions>
+        <dimensions>71.2/71.2/25.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13200</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -1344,7 +1344,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.60</weight>
-        <dimensions>59,6/59,6/18,5</dimensions>
+        <dimensions>59.6/59.6/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>5962</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -1380,7 +1380,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.42</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>15543</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -1416,7 +1416,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.20</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>13376</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -1452,7 +1452,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>14.80</weight>
-        <dimensions>70,7/70,7/21,5</dimensions>
+        <dimensions>70.7/70.7/21.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>15466</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -1488,7 +1488,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>18.30</weight>
-        <dimensions>77,3/77,3/26,5</dimensions>
+        <dimensions>77.3/77.3/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>28314</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -1524,7 +1524,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.70</weight>
-        <dimensions>66,8/66,8/20,5</dimensions>
+        <dimensions>66.8/66.8/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9735</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -1560,7 +1560,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.20</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>14872</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -1596,7 +1596,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.20</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9933</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -1632,7 +1632,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>17.10</weight>
-        <dimensions>76,3/76,3/25,5</dimensions>
+        <dimensions>76.3/76.3/25.5</dimensions>
         <param name="Объем">0.15</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>31218</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -1668,7 +1668,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.60</weight>
-        <dimensions>70,5/70,5/22,5</dimensions>
+        <dimensions>70.5/70.5/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>20152</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -1704,7 +1704,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.40</weight>
-        <dimensions>73,8/73,8/25,5</dimensions>
+        <dimensions>73.8/73.8/25.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>12419</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -1740,7 +1740,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>14.20</weight>
-        <dimensions>71,6/71,6/23,5</dimensions>
+        <dimensions>71.6/71.6/23.5</dimensions>
         <param name="Объем">0.12</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>12342</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -1776,7 +1776,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.60</weight>
-        <dimensions>69,4/69,4/21,5</dimensions>
+        <dimensions>69.4/69.4/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>23342</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -1812,7 +1812,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.70</weight>
-        <dimensions>70,2/70,2/22,5</dimensions>
+        <dimensions>70.2/70.2/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>19800</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -1848,7 +1848,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.70</weight>
-        <dimensions>74,9/74,9/24,5</dimensions>
+        <dimensions>74.9/74.9/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13904</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -1884,7 +1884,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.96</weight>
-        <dimensions>75,2/75,2/24,5</dimensions>
+        <dimensions>75.2/75.2/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>15609</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -1920,7 +1920,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.90</weight>
-        <dimensions>73,7/73,7/23,5</dimensions>
+        <dimensions>73.7/73.7/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>17699</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -1956,7 +1956,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.60</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
+        <dimensions>72.4/72.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>16885</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -1992,7 +1992,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.10</weight>
-        <dimensions>75,3/75,3/24,5</dimensions>
+        <dimensions>75.3/75.3/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>15752</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -2028,7 +2028,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.80</weight>
-        <dimensions>66/66/22,5</dimensions>
+        <dimensions>66/66/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>13123</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -2064,7 +2064,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.96</weight>
-        <dimensions>75,2/75,2/24,5</dimensions>
+        <dimensions>75.2/75.2/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>12771</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -2100,7 +2100,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.60</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
+        <dimensions>72.4/72.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>11638</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -2136,7 +2136,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.10</weight>
-        <dimensions>64,3/64,3/21,5</dimensions>
+        <dimensions>64.3/64.3/21.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9218</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -2172,7 +2172,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7909</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -2208,7 +2208,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.10</weight>
-        <dimensions>61,5/61,5/18,5</dimensions>
+        <dimensions>61.5/61.5/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6996</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -2244,7 +2244,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,4/63,4/19,5</dimensions>
+        <dimensions>63.4/63.4/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6996</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -2280,7 +2280,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.60</weight>
-        <dimensions>70,5/70,5/22,5</dimensions>
+        <dimensions>70.5/70.5/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11418</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -2316,7 +2316,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.70</weight>
-        <dimensions>76,3/76,3/25,5</dimensions>
+        <dimensions>76.3/76.3/25.5</dimensions>
         <param name="Объем">0.15</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13486</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -2352,7 +2352,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.70</weight>
-        <dimensions>70,2/70,2/22,5</dimensions>
+        <dimensions>70.2/70.2/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>9933</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -2388,7 +2388,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.80</weight>
-        <dimensions>62,1/62,1/19,5</dimensions>
+        <dimensions>62.1/62.1/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11902</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -2424,7 +2424,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.60</weight>
-        <dimensions>59,6/59,6/18,5</dimensions>
+        <dimensions>59.6/59.6/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8239</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -2460,7 +2460,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.70</weight>
-        <dimensions>58,4/58,4/18,5</dimensions>
+        <dimensions>58.4/58.4/18.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9845</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -2496,7 +2496,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.70</weight>
-        <dimensions>74,9/74,9/24,5</dimensions>
+        <dimensions>74.9/74.9/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>12056</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -2532,7 +2532,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.30</weight>
-        <dimensions>60,3/60,3/18,5</dimensions>
+        <dimensions>60.3/60.3/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6743</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -2568,7 +2568,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.10</weight>
-        <dimensions>75,3/75,3/24,5</dimensions>
+        <dimensions>75.3/75.3/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>15961</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -2604,7 +2604,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>0.0</weight>
-        <dimensions>61,1/61,1/20,5</dimensions>
+        <dimensions>61.1/61.1/20.5</dimensions>
         <param name="Объем">0.00</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8371</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -2640,7 +2640,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.30</weight>
-        <dimensions>60,3/60,3/18,5</dimensions>
+        <dimensions>60.3/60.3/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>5676</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -2676,7 +2676,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>6105</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -2712,7 +2712,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.70</weight>
-        <dimensions>67,8/67,8/24,5</dimensions>
+        <dimensions>67.8/67.8/24.5</dimensions>
         <param name="Объем">0.11</param>
         <count>6</count>
       <disabled>false</disabled><oldprice>13123</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -2748,7 +2748,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.30</weight>
-        <dimensions>73,5/73,5/23,5</dimensions>
+        <dimensions>73.5/73.5/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11066</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -2784,7 +2784,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.10</weight>
-        <dimensions>74,1/74,1/23,5</dimensions>
+        <dimensions>74.1/74.1/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>15609</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -2820,7 +2820,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>30</count>
       <disabled>false</disabled><oldprice>8162</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -2856,7 +2856,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.30</weight>
-        <dimensions>72,7/72,7/22,5</dimensions>
+        <dimensions>72.7/72.7/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18876</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -2892,7 +2892,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>9295</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -2928,7 +2928,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>8.30</weight>
-        <dimensions>60,3/60,3/18,5</dimensions>
+        <dimensions>60.3/60.3/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>7667</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -2964,7 +2964,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.50</weight>
-        <dimensions>65,7/65,7/22,5</dimensions>
+        <dimensions>65.7/65.7/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>6</count>
       <disabled>false</disabled><oldprice>9647</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -3000,7 +3000,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6820</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -3036,7 +3036,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.40</weight>
-        <dimensions>61,5/61,5/19,5</dimensions>
+        <dimensions>61.5/61.5/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7524</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -3072,7 +3072,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.40</weight>
-        <dimensions>65,2/65,2/20,5</dimensions>
+        <dimensions>65.2/65.2/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8602</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -3108,7 +3108,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.20</weight>
-        <dimensions>67,9/67,9/22,5</dimensions>
+        <dimensions>67.9/67.9/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>10505</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -3144,7 +3144,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>14.96</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
+        <dimensions>72.4/72.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>15543</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -3180,7 +3180,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.80</weight>
-        <dimensions>65,3/65,3/24,5</dimensions>
+        <dimensions>65.3/65.3/24.5</dimensions>
         <param name="Объем">0.10</param>
         <count>6</count>
       <disabled>false</disabled><oldprice>10648</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -3216,7 +3216,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.80</weight>
-        <dimensions>68,8/68,8/20,5</dimensions>
+        <dimensions>68.8/68.8/20.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9735</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">75</param><param name="Камерные">Нет</param></offer>
@@ -3252,7 +3252,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.70</weight>
-        <dimensions>57,5/57,5/17,5</dimensions>
+        <dimensions>57.5/57.5/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>20</count>
       <disabled>false</disabled><oldprice>5247</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -3288,7 +3288,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.60</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
+        <dimensions>72.4/72.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>15609</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -3324,7 +3324,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.68</weight>
-        <dimensions>73/73/22,5</dimensions>
+        <dimensions>73/73/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>26961</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -3360,7 +3360,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>12.50</weight>
-        <dimensions>65,7/65,7/22,5</dimensions>
+        <dimensions>65.7/65.7/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10714</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -3396,7 +3396,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.80</weight>
-        <dimensions>66/66/22,5</dimensions>
+        <dimensions>66/66/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13486</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -3432,7 +3432,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.68</weight>
-        <dimensions>73/73/22,5</dimensions>
+        <dimensions>73/73/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>16456</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -3468,7 +3468,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6501</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -3504,7 +3504,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.10</weight>
-        <dimensions>74,1/74,1/23,5</dimensions>
+        <dimensions>74.1/74.1/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>12771</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -3540,7 +3540,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.20</weight>
-        <dimensions>67,9/67,9/22,5</dimensions>
+        <dimensions>67.9/67.9/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9867</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -3576,7 +3576,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>12.10</weight>
-        <dimensions>68,5/68,5/22,5</dimensions>
+        <dimensions>68.5/68.5/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10285</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -3612,7 +3612,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.90</weight>
-        <dimensions>58,3/58,3/17,5</dimensions>
+        <dimensions>58.3/58.3/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6380</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -3648,7 +3648,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.40</weight>
-        <dimensions>62,5/62,5/21,5</dimensions>
+        <dimensions>62.5/62.5/21.5</dimensions>
         <param name="Объем">0.08</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>9933</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -3684,7 +3684,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.20</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>10780</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -3720,7 +3720,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.70</weight>
-        <dimensions>58,4/58,4/18,5</dimensions>
+        <dimensions>58.4/58.4/18.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7403</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -3756,7 +3756,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.90</weight>
-        <dimensions>73,7/73,7/23,5</dimensions>
+        <dimensions>73.7/73.7/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13277</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -3792,7 +3792,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.10</weight>
-        <dimensions>63,7/63,7/20,5</dimensions>
+        <dimensions>63.7/63.7/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8019</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -3828,7 +3828,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.30</weight>
-        <dimensions>72,8/72,8/24,5</dimensions>
+        <dimensions>72.8/72.8/24.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13838</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -3864,7 +3864,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.40</weight>
-        <dimensions>65,2/65,2/20,5</dimensions>
+        <dimensions>65.2/65.2/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9284</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -3900,7 +3900,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.20</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8514</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -3936,7 +3936,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.40</weight>
-        <dimensions>61,5/61,5/19,5</dimensions>
+        <dimensions>61.5/61.5/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6105</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -3972,7 +3972,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>8.80</weight>
-        <dimensions>62,1/62,1/19,5</dimensions>
+        <dimensions>62.1/62.1/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6886</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -4008,7 +4008,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>5676</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -4044,7 +4044,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.00</weight>
-        <dimensions>57,8/57,8/18,5</dimensions>
+        <dimensions>57.8/57.8/18.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>5104</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -4080,7 +4080,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>8.70</weight>
-        <dimensions>61/61/18,5</dimensions>
+        <dimensions>61/61/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6666</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -4116,7 +4116,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.80</weight>
-        <dimensions>58,7/58,7/16,5</dimensions>
+        <dimensions>58.7/58.7/16.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>5104</oldprice><param name="Ширина профиля">165</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -4152,7 +4152,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.20</weight>
-        <dimensions>60,1/60,1/17,5</dimensions>
+        <dimensions>60.1/60.1/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6699</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -4188,7 +4188,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6380</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -4224,7 +4224,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.50</weight>
-        <dimensions>65,7/65,7/22,5</dimensions>
+        <dimensions>65.7/65.7/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>10</count>
       <disabled>false</disabled><oldprice>10362</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -4260,7 +4260,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>12.40</weight>
-        <dimensions>69,4/69,4/23,5</dimensions>
+        <dimensions>69.4/69.4/23.5</dimensions>
         <param name="Объем">0.11</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>11924</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -4296,9 +4296,9 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.50</weight>
-        <dimensions>63,7/63,7/22,5</dimensions>
+        <dimensions>63.7/63.7/22.5</dimensions>
         <param name="Объем">0.09</param>
-        <count>16</count>
+        <count>14</count>
       <disabled>false</disabled><oldprice>10505</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
       <offer id="327652">
         <vendor>Formula</vendor>
@@ -4332,7 +4332,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8019</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -4368,7 +4368,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.90</weight>
-        <dimensions>64,7/64,7/21,5</dimensions>
+        <dimensions>64.7/64.7/21.5</dimensions>
         <param name="Объем">0.09</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>10219</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -4404,7 +4404,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.00</weight>
-        <dimensions>76,3/76,3/23,5</dimensions>
+        <dimensions>76.3/76.3/23.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>13057</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -4440,7 +4440,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.10</weight>
-        <dimensions>61,5/61,5/18,5</dimensions>
+        <dimensions>61.5/61.5/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>5819</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -4476,7 +4476,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.80</weight>
-        <dimensions>66,4/66,4/21,5</dimensions>
+        <dimensions>66.4/66.4/21.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7942</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -4512,7 +4512,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.25</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10285</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -4548,7 +4548,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.70</weight>
-        <dimensions>67,8/67,8/24,5</dimensions>
+        <dimensions>67.8/67.8/24.5</dimensions>
         <param name="Объем">0.11</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>12133</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -4584,7 +4584,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.10</weight>
-        <dimensions>64,2/64,2/26,5</dimensions>
+        <dimensions>64.2/64.2/26.5</dimensions>
         <param name="Объем">0.11</param>
         <count>6</count>
       <disabled>false</disabled><oldprice>10648</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">30</param><param name="Камерные">Нет</param></offer>
@@ -4620,7 +4620,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>14.20</weight>
-        <dimensions>71,6/71,6/23,5</dimensions>
+        <dimensions>71.6/71.6/23.5</dimensions>
         <param name="Объем">0.12</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>12914</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -4656,7 +4656,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.10</weight>
-        <dimensions>74,1/74,1/23,5</dimensions>
+        <dimensions>74.1/74.1/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>36</count>
       <disabled>false</disabled><oldprice>14190</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -4692,7 +4692,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.96</weight>
-        <dimensions>76,6/76,6/23,5</dimensions>
+        <dimensions>76.6/76.6/23.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>15961</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -4728,7 +4728,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.10</weight>
-        <dimensions>74,8/74,8/26,5</dimensions>
+        <dimensions>74.8/74.8/26.5</dimensions>
         <param name="Объем">0.15</param>
         <count>18</count>
       <disabled>false</disabled><oldprice>15466</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -4764,7 +4764,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>18.30</weight>
-        <dimensions>77,3/77,3/26,5</dimensions>
+        <dimensions>77.3/77.3/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>16676</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -4800,7 +4800,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.20</weight>
-        <dimensions>70,2/70,2/24,5</dimensions>
+        <dimensions>70.2/70.2/24.5</dimensions>
         <param name="Объем">0.12</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>13200</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -4836,7 +4836,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.10</weight>
-        <dimensions>75,3/75,3/24,5</dimensions>
+        <dimensions>75.3/75.3/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>14894</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -4872,7 +4872,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.10</weight>
-        <dimensions>63,7/63,7/20,5</dimensions>
+        <dimensions>63.7/63.7/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>9790</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -4908,7 +4908,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.20</weight>
-        <dimensions>59,6/59,6/20,5</dimensions>
+        <dimensions>59.6/59.6/20.5</dimensions>
         <param name="Объем">0.07</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>8866</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -4944,7 +4944,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>6.90</weight>
-        <dimensions>58,3/58,3/17,5</dimensions>
+        <dimensions>58.3/58.3/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>4972</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -4980,7 +4980,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.60</weight>
-        <dimensions>59,6/59,6/18,5</dimensions>
+        <dimensions>59.6/59.6/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>5390</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -5016,7 +5016,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.90</weight>
-        <dimensions>59,6/59,6/19,5</dimensions>
+        <dimensions>59.6/59.6/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6248</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -5052,7 +5052,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.10</weight>
-        <dimensions>63,4/63,4/19,5</dimensions>
+        <dimensions>63.4/63.4/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>5885</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -5088,7 +5088,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>8.50</weight>
-        <dimensions>58,2/58,2/19,5</dimensions>
+        <dimensions>58.2/58.2/19.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6743</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -5124,7 +5124,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.50</weight>
-        <dimensions>60/60/21,5</dimensions>
+        <dimensions>60/60/21.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7876</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -5160,7 +5160,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.49</weight>
-        <dimensions>73,7/73,7/23,5</dimensions>
+        <dimensions>73.7/73.7/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>19580</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -5196,7 +5196,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.70</weight>
-        <dimensions>58,4/58,4/18,5</dimensions>
+        <dimensions>58.4/58.4/18.5</dimensions>
         <param name="Объем">0.06</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>6952</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -5232,7 +5232,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.40</weight>
-        <dimensions>61,5/61,5/19,5</dimensions>
+        <dimensions>61.5/61.5/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>7161</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -5268,7 +5268,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.60</weight>
-        <dimensions>59,6/59,6/18,5</dimensions>
+        <dimensions>59.6/59.6/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>6314</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -5304,7 +5304,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>20</count>
       <disabled>false</disabled><oldprice>7238</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -5340,7 +5340,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.00</weight>
-        <dimensions>57,8/57,8/18,5</dimensions>
+        <dimensions>57.8/57.8/18.5</dimensions>
         <param name="Объем">0.06</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>5962</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -5376,7 +5376,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.30</weight>
-        <dimensions>60,3/60,3/18,5</dimensions>
+        <dimensions>60.3/60.3/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>7161</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -5412,9 +5412,9 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.90</weight>
-        <dimensions>59,6/59,6/19,5</dimensions>
+        <dimensions>59.6/59.6/19.5</dimensions>
         <param name="Объем">0.07</param>
-        <count>12</count>
+        <count>8</count>
       <disabled>false</disabled><oldprice>7304</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="284985">
         <vendor>Кама</vendor>
@@ -5448,7 +5448,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,4/63,4/19,5</dimensions>
+        <dimensions>63.4/63.4/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>24</count>
       <disabled>false</disabled><oldprice>5544</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -5484,7 +5484,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.70</weight>
-        <dimensions>67,8/67,8/24,5</dimensions>
+        <dimensions>67.8/67.8/24.5</dimensions>
         <param name="Объем">0.11</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>12342</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -5520,7 +5520,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.38</weight>
-        <dimensions>68,4/68,4/18,5</dimensions>
+        <dimensions>68.4/68.4/18.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10780</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">75</param><param name="Камерные">Нет</param></offer>
@@ -5556,7 +5556,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.42</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13695</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -5592,7 +5592,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.80</weight>
-        <dimensions>66,4/66,4/21,5</dimensions>
+        <dimensions>66.4/66.4/21.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13101</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -5628,7 +5628,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>7942</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -5664,7 +5664,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.30</weight>
-        <dimensions>63,4/63,4/22,5</dimensions>
+        <dimensions>63.4/63.4/22.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14300</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -5700,7 +5700,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.00</weight>
-        <dimensions>64/64/19,5</dimensions>
+        <dimensions>64/64/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7942</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -5736,7 +5736,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.50</weight>
-        <dimensions>69,2/69,2/23,5</dimensions>
+        <dimensions>69.2/69.2/23.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11781</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -5772,7 +5772,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.10</weight>
-        <dimensions>63,7/63,7/20,5</dimensions>
+        <dimensions>63.7/63.7/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9504</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -5808,7 +5808,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.20</weight>
-        <dimensions>67,9/67,9/22,5</dimensions>
+        <dimensions>67.9/67.9/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11066</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -5844,7 +5844,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.60</weight>
-        <dimensions>69,4/69,4/21,5</dimensions>
+        <dimensions>69.4/69.4/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>10285</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -5880,7 +5880,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.00</weight>
-        <dimensions>57,8/57,8/18,5</dimensions>
+        <dimensions>57.8/57.8/18.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7579</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -5916,7 +5916,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.90</weight>
-        <dimensions>64,7/64,7/21,5</dimensions>
+        <dimensions>64.7/64.7/21.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11286</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -5952,7 +5952,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.30</weight>
-        <dimensions>63,4/63,4/22,5</dimensions>
+        <dimensions>63.4/63.4/22.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11066</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -5988,7 +5988,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.40</weight>
-        <dimensions>65,2/65,2/20,5</dimensions>
+        <dimensions>65.2/65.2/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>10</count>
       <disabled>false</disabled><oldprice>11352</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -6024,7 +6024,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.70</weight>
-        <dimensions>66,8/66,8/21,5</dimensions>
+        <dimensions>66.8/66.8/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>6</count>
       <disabled>false</disabled><oldprice>9647</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -6060,7 +6060,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.40</weight>
-        <dimensions>61,5/61,5/19,5</dimensions>
+        <dimensions>61.5/61.5/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9361</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -6096,7 +6096,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.40</weight>
-        <dimensions>65,2/65,2/20,5</dimensions>
+        <dimensions>65.2/65.2/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>11990</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -6132,7 +6132,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.20</weight>
-        <dimensions>67,9/67,9/22,5</dimensions>
+        <dimensions>67.9/67.9/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18480</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -6168,7 +6168,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.50</weight>
-        <dimensions>65,7/65,7/22,5</dimensions>
+        <dimensions>65.7/65.7/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18018</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -6204,7 +6204,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>20.00</weight>
-        <dimensions>79,3/79,3/28,5</dimensions>
+        <dimensions>79.3/79.3/28.5</dimensions>
         <param name="Объем">0.18</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>20933</oldprice><param name="Ширина профиля">285</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -6240,7 +6240,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.60</weight>
-        <dimensions>64,5/64,5/23,5</dimensions>
+        <dimensions>64.5/64.5/23.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>9933</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -6276,7 +6276,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.40</weight>
-        <dimensions>65,2/65,2/20,5</dimensions>
+        <dimensions>65.2/65.2/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>9581</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -6312,7 +6312,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.40</weight>
-        <dimensions>68,8/68,8/23,5</dimensions>
+        <dimensions>68.8/68.8/23.5</dimensions>
         <param name="Объем">0.11</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>10505</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -6348,7 +6348,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.10</weight>
-        <dimensions>61,5/61,5/18,5</dimensions>
+        <dimensions>61.5/61.5/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>8965</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -6384,7 +6384,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.60</weight>
-        <dimensions>59,6/59,6/18,5</dimensions>
+        <dimensions>59.6/59.6/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6369</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -6420,7 +6420,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.90</weight>
-        <dimensions>59,6/59,6/19,5</dimensions>
+        <dimensions>59.6/59.6/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10945</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -6456,7 +6456,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>12.60</weight>
-        <dimensions>70,5/70,5/22,5</dimensions>
+        <dimensions>70.5/70.5/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>11847</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -6492,7 +6492,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>11.10</weight>
-        <dimensions>67,1/67,1/23,5</dimensions>
+        <dimensions>67.1/67.1/23.5</dimensions>
         <param name="Объем">0.11</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>11352</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -6528,7 +6528,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.00</weight>
-        <dimensions>66,9/66,9/23,5</dimensions>
+        <dimensions>66.9/66.9/23.5</dimensions>
         <param name="Объем">0.11</param>
         <count>20</count>
       <disabled>false</disabled><oldprice>11638</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -6564,7 +6564,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.10</weight>
-        <dimensions>68,5/68,5/22,5</dimensions>
+        <dimensions>68.5/68.5/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>10</count>
       <disabled>false</disabled><oldprice>11286</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -6600,7 +6600,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>11.40</weight>
-        <dimensions>64,3/64,3/26,5</dimensions>
+        <dimensions>64.3/64.3/26.5</dimensions>
         <param name="Объем">0.11</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>11352</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">35</param><param name="Камерные">Нет</param></offer>
@@ -6636,7 +6636,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.80</weight>
-        <dimensions>66/66/22,5</dimensions>
+        <dimensions>66/66/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>28</count>
       <disabled>false</disabled><oldprice>11000</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -6672,7 +6672,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>18.37</weight>
-        <dimensions>76,3/76,3/25,5</dimensions>
+        <dimensions>76.3/76.3/25.5</dimensions>
         <param name="Объем">0.15</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>27027</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -6708,7 +6708,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.70</weight>
-        <dimensions>66,8/66,8/21,5</dimensions>
+        <dimensions>66.8/66.8/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>11066</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -6744,7 +6744,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.60</weight>
-        <dimensions>69,4/69,4/21,5</dimensions>
+        <dimensions>69.4/69.4/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>10285</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -6780,7 +6780,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.30</weight>
-        <dimensions>63,4/63,4/22,5</dimensions>
+        <dimensions>63.4/63.4/22.5</dimensions>
         <param name="Объем">0.09</param>
         <count>10</count>
       <disabled>false</disabled><oldprice>9933</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -6816,7 +6816,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.20</weight>
-        <dimensions>67,9/67,9/22,5</dimensions>
+        <dimensions>67.9/67.9/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>10923</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -6852,7 +6852,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>7029</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -6888,7 +6888,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.70</weight>
-        <dimensions>65,7/65,7/20,5</dimensions>
+        <dimensions>65.7/65.7/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9218</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -6924,7 +6924,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>11.70</weight>
-        <dimensions>66,8/66,8/21,5</dimensions>
+        <dimensions>66.8/66.8/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9218</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -6960,7 +6960,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.50</weight>
-        <dimensions>63,7/63,7/22,5</dimensions>
+        <dimensions>63.7/63.7/22.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8866</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -6996,7 +6996,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.30</weight>
-        <dimensions>63,4/63,4/22,5</dimensions>
+        <dimensions>63.4/63.4/22.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8866</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -7032,7 +7032,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>8.70</weight>
-        <dimensions>60,1/60,1/19,5</dimensions>
+        <dimensions>60.1/60.1/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7029</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -7068,7 +7068,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.90</weight>
-        <dimensions>58,3/58,3/17,5</dimensions>
+        <dimensions>58.3/58.3/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>4972</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -7104,7 +7104,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.70</weight>
-        <dimensions>67,8/67,8/24,5</dimensions>
+        <dimensions>67.8/67.8/24.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10428</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -7140,7 +7140,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>16.40</weight>
-        <dimensions>73,8/73,8/25,5</dimensions>
+        <dimensions>73.8/73.8/25.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>12771</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -7176,7 +7176,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>16.40</weight>
-        <dimensions>77,2/77,2/26,5</dimensions>
+        <dimensions>77.2/77.2/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>16456</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -7212,7 +7212,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>17.50</weight>
-        <dimensions>78,1/78,1/27,5</dimensions>
+        <dimensions>78.1/78.1/27.5</dimensions>
         <param name="Объем">0.17</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>16885</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -7248,7 +7248,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.60</weight>
-        <dimensions>64,8/64,8/20,5</dimensions>
+        <dimensions>64.8/64.8/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7029</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -7284,7 +7284,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.30</weight>
-        <dimensions>60,3/60,3/18,5</dimensions>
+        <dimensions>60.3/60.3/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>5676</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -7320,7 +7320,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.70</weight>
-        <dimensions>57,5/57,5/17,5</dimensions>
+        <dimensions>57.5/57.5/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>4829</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -7356,7 +7356,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.60</weight>
-        <dimensions>69,4/69,4/21,5</dimensions>
+        <dimensions>69.4/69.4/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10076</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -7392,7 +7392,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.30</weight>
-        <dimensions>65,1/65,1/21,5</dimensions>
+        <dimensions>65.1/65.1/21.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9581</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -7428,7 +7428,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.20</weight>
-        <dimensions>73,8/73,8/25,5</dimensions>
+        <dimensions>73.8/73.8/25.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13123</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -7464,7 +7464,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.40</weight>
-        <dimensions>69,4/69,4/23,5</dimensions>
+        <dimensions>69.4/69.4/23.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10648</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -7500,7 +7500,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.96</weight>
-        <dimensions>75,2/75,2/24,5</dimensions>
+        <dimensions>75.2/75.2/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13838</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -7536,7 +7536,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.80</weight>
-        <dimensions>69/69/21,5</dimensions>
+        <dimensions>69/69/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>10714</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -7572,7 +7572,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>17.10</weight>
-        <dimensions>75,3/75,3/24,5</dimensions>
+        <dimensions>75.3/75.3/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14476</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -7608,7 +7608,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.40</weight>
-        <dimensions>61,5/61,5/19,5</dimensions>
+        <dimensions>61.5/61.5/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7568</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -7644,7 +7644,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.30</weight>
-        <dimensions>72,7/72,7/22,5</dimensions>
+        <dimensions>72.7/72.7/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14399</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -7680,7 +7680,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>22.00</weight>
-        <dimensions>79,1/79,1/27,5</dimensions>
+        <dimensions>79.1/79.1/27.5</dimensions>
         <param name="Объем">0.17</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>20977</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -7716,7 +7716,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>14.96</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
+        <dimensions>72.4/72.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>13904</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -7752,7 +7752,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.80</weight>
-        <dimensions>62,1/62,1/19,5</dimensions>
+        <dimensions>62.1/62.1/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9735</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -7788,7 +7788,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.80</weight>
-        <dimensions>65,3/65,3/24,5</dimensions>
+        <dimensions>65.3/65.3/24.5</dimensions>
         <param name="Объем">0.10</param>
         <count>10</count>
       <disabled>false</disabled><oldprice>12056</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -7824,7 +7824,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>10</count>
       <disabled>false</disabled><oldprice>6622</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -7860,7 +7860,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,4/63,4/19,5</dimensions>
+        <dimensions>63.4/63.4/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9009</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -7896,7 +7896,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.42</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>15125</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -7932,7 +7932,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.90</weight>
-        <dimensions>58,3/58,3/17,5</dimensions>
+        <dimensions>58.3/58.3/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6523</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -7968,7 +7968,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.30</weight>
-        <dimensions>70,3/70,3/24,5</dimensions>
+        <dimensions>70.3/70.3/24.5</dimensions>
         <param name="Объем">0.12</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>18447</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -8004,7 +8004,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,4/63,4/19,5</dimensions>
+        <dimensions>63.4/63.4/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>6</count>
       <disabled>false</disabled><oldprice>7205</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -8040,7 +8040,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.10</weight>
-        <dimensions>74,1/74,1/23,5</dimensions>
+        <dimensions>74.1/74.1/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>19371</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -8076,7 +8076,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.60</weight>
-        <dimensions>70,5/70,5/22,5</dimensions>
+        <dimensions>70.5/70.5/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14718</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -8112,7 +8112,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>11.60</weight>
-        <dimensions>69,4/69,4/21,5</dimensions>
+        <dimensions>69.4/69.4/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>24288</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -8148,7 +8148,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>20.00</weight>
-        <dimensions>79,3/79,3/28,5</dimensions>
+        <dimensions>79.3/79.3/28.5</dimensions>
         <param name="Объем">0.18</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>20570</oldprice><param name="Ширина профиля">285</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -8184,7 +8184,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>16.50</weight>
-        <dimensions>73,8/73,8/25,5</dimensions>
+        <dimensions>73.8/73.8/25.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>18447</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -8220,7 +8220,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.90</weight>
-        <dimensions>64,7/64,7/21,5</dimensions>
+        <dimensions>64.7/64.7/21.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14740</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -8256,7 +8256,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>8.80</weight>
-        <dimensions>59,1/59,1/20,5</dimensions>
+        <dimensions>59.1/59.1/20.5</dimensions>
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>8371</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -8292,7 +8292,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11803</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -8328,7 +8328,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.50</weight>
-        <dimensions>60/60/21,5</dimensions>
+        <dimensions>60/60/21.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8514</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -8364,7 +8364,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.60</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
+        <dimensions>72.4/72.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>11143</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -8400,7 +8400,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.20</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>9218</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -8436,7 +8436,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>19.38</weight>
-        <dimensions>77,9/77,9/27,5</dimensions>
+        <dimensions>77.9/77.9/27.5</dimensions>
         <param name="Объем">0.17</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>18447</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -8472,7 +8472,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10439</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -8508,7 +8508,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>12.80</weight>
-        <dimensions>69/69/21,5</dimensions>
+        <dimensions>69/69/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14542</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -8544,7 +8544,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>32</count>
       <disabled>false</disabled><oldprice>7667</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -8580,7 +8580,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.70</weight>
-        <dimensions>65,7/65,7/20,5</dimensions>
+        <dimensions>65.7/65.7/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>9999</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -8616,7 +8616,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.10</weight>
-        <dimensions>63,4/63,4/19,5</dimensions>
+        <dimensions>63.4/63.4/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>6</count>
       <disabled>false</disabled><oldprice>5676</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -8652,7 +8652,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.70</weight>
-        <dimensions>61/61/18,5</dimensions>
+        <dimensions>61/61/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>7238</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -8688,7 +8688,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>16.30</weight>
-        <dimensions>73,9/73,9/23,5</dimensions>
+        <dimensions>73.9/73.9/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>17875</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -8724,7 +8724,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>28</count>
       <disabled>false</disabled><oldprice>6105</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -8760,7 +8760,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>11.60</weight>
-        <dimensions>64,5/64,5/23,5</dimensions>
+        <dimensions>64.5/64.5/23.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>19866</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
@@ -8796,7 +8796,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>16.50</weight>
-        <dimensions>73,8/73,8/25,5</dimensions>
+        <dimensions>73.8/73.8/25.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>35343</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -8832,7 +8832,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.70</weight>
-        <dimensions>58,4/58,4/18,5</dimensions>
+        <dimensions>58.4/58.4/18.5</dimensions>
         <param name="Объем">0.06</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>6380</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -8868,7 +8868,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>20</count>
       <disabled>false</disabled><oldprice>7381</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -8904,7 +8904,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.70</weight>
-        <dimensions>66,8/66,8/21,5</dimensions>
+        <dimensions>66.8/66.8/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>10076</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -8940,7 +8940,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.60</weight>
-        <dimensions>64,8/64,8/20,5</dimensions>
+        <dimensions>64.8/64.8/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>7667</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -8976,7 +8976,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.40</weight>
-        <dimensions>65,2/65,2/20,5</dimensions>
+        <dimensions>65.2/65.2/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>34</count>
       <disabled>false</disabled><oldprice>7447</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -9012,7 +9012,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.49</weight>
-        <dimensions>73,7/73,7/23,5</dimensions>
+        <dimensions>73.7/73.7/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>13761</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -9048,7 +9048,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.00</weight>
-        <dimensions>71,8/71,8/23,5</dimensions>
+        <dimensions>71.8/71.8/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>33946</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -9084,7 +9084,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.70</weight>
-        <dimensions>65,7/65,7/20,5</dimensions>
+        <dimensions>65.7/65.7/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>11000</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -9120,7 +9120,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.30</weight>
-        <dimensions>72,8/72,8/24,5</dimensions>
+        <dimensions>72.8/72.8/24.5</dimensions>
         <param name="Объем">0.13</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>18447</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -9156,7 +9156,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.80</weight>
-        <dimensions>57,6/57,6/19,5</dimensions>
+        <dimensions>57.6/57.6/19.5</dimensions>
         <param name="Объем">0.06</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>6380</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -9192,7 +9192,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.96</weight>
-        <dimensions>75,2/75,2/24,5</dimensions>
+        <dimensions>75.2/75.2/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13838</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -9228,7 +9228,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.80</weight>
-        <dimensions>69/69/21,5</dimensions>
+        <dimensions>69/69/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9790</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -9264,7 +9264,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.20</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9152</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -9300,7 +9300,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.60</weight>
-        <dimensions>70,5/70,5/22,5</dimensions>
+        <dimensions>70.5/70.5/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10714</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -9336,7 +9336,7 @@
         <param name="FR">Да</param>
         <param name="XL">Да</param>
         <weight>15.07</weight>
-        <dimensions>70,2/70,2/22,5</dimensions>
+        <dimensions>70.2/70.2/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>16676</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -9372,7 +9372,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.91</weight>
-        <dimensions>66,8/66,8/20,5</dimensions>
+        <dimensions>66.8/66.8/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>15543</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -9408,7 +9408,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.27</weight>
-        <dimensions>74,4/74,4/22,5</dimensions>
+        <dimensions>74.4/74.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13695</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">75</param><param name="Камерные">Нет</param></offer>
@@ -9444,7 +9444,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.60</weight>
-        <dimensions>59,6/59,6/18,5</dimensions>
+        <dimensions>59.6/59.6/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7810</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -9480,7 +9480,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.30</weight>
-        <dimensions>72,8/72,8/24,5</dimensions>
+        <dimensions>72.8/72.8/24.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>21142</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -9516,7 +9516,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>16.40</weight>
-        <dimensions>77,2/77,2/26,5</dimensions>
+        <dimensions>77.2/77.2/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>37598</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -9552,7 +9552,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.60</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
+        <dimensions>72.4/72.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11308</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -9588,7 +9588,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.68</weight>
-        <dimensions>73/73/22,5</dimensions>
+        <dimensions>73/73/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>17600</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -9624,7 +9624,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>17.10</weight>
-        <dimensions>75,3/75,3/24,5</dimensions>
+        <dimensions>75.3/75.3/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>16324</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -9660,7 +9660,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.07</weight>
-        <dimensions>70,2/70,2/22,5</dimensions>
+        <dimensions>70.2/70.2/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11495</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -9696,7 +9696,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.42</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11990</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -9732,7 +9732,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>16.30</weight>
-        <dimensions>73,9/73,9/23,5</dimensions>
+        <dimensions>73.9/73.9/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>12628</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -9768,7 +9768,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.30</weight>
-        <dimensions>72,8/72,8/24,5</dimensions>
+        <dimensions>72.8/72.8/24.5</dimensions>
         <param name="Объем">0.13</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>37598</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -9804,7 +9804,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.40</weight>
-        <dimensions>61,5/61,5/19,5</dimensions>
+        <dimensions>61.5/61.5/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>7238</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -9840,7 +9840,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.40</weight>
-        <dimensions>69,4/69,4/23,5</dimensions>
+        <dimensions>69.4/69.4/23.5</dimensions>
         <param name="Объем">0.11</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>15609</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -9876,7 +9876,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>17.10</weight>
-        <dimensions>76,3/76,3/25,5</dimensions>
+        <dimensions>76.3/76.3/25.5</dimensions>
         <param name="Объем">0.15</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>31647</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -9912,7 +9912,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.00</weight>
-        <dimensions>77,4/77,4/26,5</dimensions>
+        <dimensions>77.4/77.4/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>19</count>
       <disabled>false</disabled><oldprice>28380</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -9948,7 +9948,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>17.10</weight>
-        <dimensions>74,8/74,8/26,5</dimensions>
+        <dimensions>74.8/74.8/26.5</dimensions>
         <param name="Объем">0.15</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>31284</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -9984,7 +9984,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>17.10</weight>
-        <dimensions>75,3/75,3/24,5</dimensions>
+        <dimensions>75.3/75.3/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>33121</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -10020,9 +10020,9 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.30</weight>
-        <dimensions>72,8/72,8/24,5</dimensions>
+        <dimensions>72.8/72.8/24.5</dimensions>
         <param name="Объем">0.13</param>
-        <count>12</count>
+        <count>10</count>
       <disabled>false</disabled><oldprice>32637</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
       <offer id="414666">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
@@ -10056,7 +10056,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>16.50</weight>
-        <dimensions>73,8/73,8/25,5</dimensions>
+        <dimensions>73.8/73.8/25.5</dimensions>
         <param name="Объем">0.14</param>
         <count>6</count>
       <disabled>false</disabled><oldprice>35475</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -10092,7 +10092,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>16.40</weight>
-        <dimensions>77,2/77,2/26,5</dimensions>
+        <dimensions>77.2/77.2/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>36190</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -10128,7 +10128,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>16.30</weight>
-        <dimensions>73,9/73,9/23,5</dimensions>
+        <dimensions>73.9/73.9/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>24904</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -10164,7 +10164,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>12.60</weight>
-        <dimensions>70,5/70,5/22,5</dimensions>
+        <dimensions>70.5/70.5/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>26411</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10200,7 +10200,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>17.50</weight>
-        <dimensions>77,6/77,6/26,5</dimensions>
+        <dimensions>77.6/77.6/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>25740</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -10236,7 +10236,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>11.70</weight>
-        <dimensions>66,8/66,8/21,5</dimensions>
+        <dimensions>66.8/66.8/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>16555</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10272,7 +10272,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.40</weight>
-        <dimensions>65,2/65,2/20,5</dimensions>
+        <dimensions>65.2/65.2/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13310</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -10308,7 +10308,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>10780</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10344,7 +10344,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.10</weight>
-        <dimensions>63,4/63,4/19,5</dimensions>
+        <dimensions>63.4/63.4/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9977</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -10380,7 +10380,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.68</weight>
-        <dimensions>73/73/22,5</dimensions>
+        <dimensions>73/73/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>27236</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10416,7 +10416,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.90</weight>
-        <dimensions>73,7/73,7/23,5</dimensions>
+        <dimensions>73.7/73.7/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>18546</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -10452,7 +10452,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.70</weight>
-        <dimensions>66,8/66,8/21,5</dimensions>
+        <dimensions>66.8/66.8/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>15400</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10488,7 +10488,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.10</weight>
-        <dimensions>61,5/61,5/18,5</dimensions>
+        <dimensions>61.5/61.5/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>9361</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -10524,7 +10524,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>18.24</weight>
-        <dimensions>78,8/78,8/25,5</dimensions>
+        <dimensions>78.8/78.8/25.5</dimensions>
         <param name="Объем">0.16</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>31823</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10560,7 +10560,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>12.80</weight>
-        <dimensions>69/69/21,5</dimensions>
+        <dimensions>69/69/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>25311</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -10596,7 +10596,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.96</weight>
-        <dimensions>76,6/76,6/23,5</dimensions>
+        <dimensions>76.6/76.6/23.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>28248</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10632,7 +10632,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>9053</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10668,7 +10668,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>17.10</weight>
-        <dimensions>75,3/75,3/24,5</dimensions>
+        <dimensions>75.3/75.3/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>27874</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -10704,9 +10704,9 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
-        <count>4</count>
+        <count>8</count>
       <disabled>false</disabled><oldprice>10461</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="414400">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
@@ -10740,7 +10740,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>15.96</weight>
-        <dimensions>75,2/75,2/24,5</dimensions>
+        <dimensions>75.2/75.2/24.5</dimensions>
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>25003</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10776,7 +10776,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>12.60</weight>
-        <dimensions>70,5/70,5/22,5</dimensions>
+        <dimensions>70.5/70.5/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>20207</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10812,7 +10812,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.30</weight>
-        <dimensions>72,7/72,7/22,5</dimensions>
+        <dimensions>72.7/72.7/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>19657</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -10848,7 +10848,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>14.20</weight>
-        <dimensions>71,6/71,6/23,5</dimensions>
+        <dimensions>71.6/71.6/23.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>23298</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10884,7 +10884,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>13.60</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
+        <dimensions>72.4/72.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18260</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -10920,7 +10920,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.00</weight>
-        <dimensions>57,8/57,8/18,5</dimensions>
+        <dimensions>57.8/57.8/18.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7700</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -10956,7 +10956,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>7.70</weight>
-        <dimensions>58,4/58,4/18,5</dimensions>
+        <dimensions>58.4/58.4/18.5</dimensions>
         <param name="Объем">0.06</param>
         <count>10</count>
       <disabled>false</disabled><oldprice>8514</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -10992,7 +10992,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>6.90</weight>
-        <dimensions>58,3/58,3/17,5</dimensions>
+        <dimensions>58.3/58.3/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7337</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -11028,7 +11028,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.80</weight>
-        <dimensions>66/66/22,5</dimensions>
+        <dimensions>66/66/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>23001</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -11064,7 +11064,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>12.80</weight>
-        <dimensions>69/69/21,5</dimensions>
+        <dimensions>69/69/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>19811</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -11100,7 +11100,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>5.80</weight>
-        <dimensions>54,7/54,7/15,5</dimensions>
+        <dimensions>54.7/54.7/15.5</dimensions>
         <param name="Объем">0.04</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>7238</oldprice><param name="Ширина профиля">155</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -11136,7 +11136,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.70</weight>
-        <dimensions>57,5/57,5/17,5</dimensions>
+        <dimensions>57.5/57.5/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7304</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -11172,7 +11172,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8272</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -11208,7 +11208,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.40</weight>
-        <dimensions>65,2/65,2/20,5</dimensions>
+        <dimensions>65.2/65.2/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11561</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -11244,7 +11244,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.00</weight>
-        <dimensions>57,8/57,8/18,5</dimensions>
+        <dimensions>57.8/57.8/18.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7491</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -11280,7 +11280,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>6.90</weight>
-        <dimensions>58,3/58,3/17,5</dimensions>
+        <dimensions>58.3/58.3/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>7887</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -11316,7 +11316,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.60</weight>
-        <dimensions>59,6/59,6/18,5</dimensions>
+        <dimensions>59.6/59.6/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8283</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -11352,7 +11352,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>8.40</weight>
-        <dimensions>61,5/61,5/19,5</dimensions>
+        <dimensions>61.5/61.5/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>8844</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -11388,7 +11388,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.90</weight>
-        <dimensions>58,3/58,3/17,5</dimensions>
+        <dimensions>58.3/58.3/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7909</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -11424,7 +11424,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>7.20</weight>
-        <dimensions>60,1/60,1/17,5</dimensions>
+        <dimensions>60.1/60.1/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8019</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -11460,7 +11460,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.10</weight>
-        <dimensions>63,4/63,4/19,5</dimensions>
+        <dimensions>63.4/63.4/19.5</dimensions>
         <param name="Объем">0.08</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>8646</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -11496,7 +11496,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>11.80</weight>
-        <dimensions>66,4/66,4/21,5</dimensions>
+        <dimensions>66.4/66.4/21.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14333</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -11532,7 +11532,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.00</weight>
-        <dimensions>77,4/77,4/26,5</dimensions>
+        <dimensions>77.4/77.4/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>17028</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -11568,7 +11568,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.68</weight>
-        <dimensions>73/73/22,5</dimensions>
+        <dimensions>73/73/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>24904</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -11604,7 +11604,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.60</weight>
-        <dimensions>69,4/69,4/21,5</dimensions>
+        <dimensions>69.4/69.4/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18304</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -11640,7 +11640,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.00</weight>
-        <dimensions>77,4/77,4/26,5</dimensions>
+        <dimensions>77.4/77.4/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>19866</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -11676,7 +11676,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.30</weight>
-        <dimensions>70,3/70,3/24,5</dimensions>
+        <dimensions>70.3/70.3/24.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>17028</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -11712,7 +11712,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.00</weight>
-        <dimensions>71,8/71,8/23,5</dimensions>
+        <dimensions>71.8/71.8/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14762</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -11748,7 +11748,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.40</weight>
-        <dimensions>62,5/62,5/21,5</dimensions>
+        <dimensions>62.5/62.5/21.5</dimensions>
         <param name="Объем">0.08</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>10285</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -11784,7 +11784,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.80</weight>
-        <dimensions>66/66/22,5</dimensions>
+        <dimensions>66/66/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>22000</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -11820,7 +11820,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.70</weight>
-        <dimensions>66,8/66,8/21,5</dimensions>
+        <dimensions>66.8/66.8/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>11143</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -11856,7 +11856,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>11.60</weight>
-        <dimensions>69,4/69,4/21,5</dimensions>
+        <dimensions>69.4/69.4/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>10</count>
       <disabled>false</disabled><oldprice>12628</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -11892,7 +11892,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>21.66</weight>
-        <dimensions>83,4/83,4/27,5</dimensions>
+        <dimensions>83.4/83.4/27.5</dimensions>
         <param name="Объем">0.19</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>29447</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -11928,7 +11928,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.40</weight>
-        <dimensions>77,2/77,2/26,5</dimensions>
+        <dimensions>77.2/77.2/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>24838</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -11964,7 +11964,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.80</weight>
-        <dimensions>66/66/22,5</dimensions>
+        <dimensions>66/66/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>14894</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -12000,7 +12000,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>12.50</weight>
-        <dimensions>68,2/68,2/22,5</dimensions>
+        <dimensions>68.2/68.2/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>13486</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -12036,7 +12036,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>8.30</weight>
-        <dimensions>60,3/60,3/18,5</dimensions>
+        <dimensions>60.3/60.3/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7832</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -12072,7 +12072,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>12.50</weight>
-        <dimensions>65,7/65,7/22,5</dimensions>
+        <dimensions>65.7/65.7/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8943</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -12108,7 +12108,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.30</weight>
-        <dimensions>72,7/72,7/22,5</dimensions>
+        <dimensions>72.7/72.7/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>17413</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -12144,7 +12144,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.60</weight>
-        <dimensions>59,6/59,6/18,5</dimensions>
+        <dimensions>59.6/59.6/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>6952</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -12180,7 +12180,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.10</weight>
-        <dimensions>61,5/61,5/18,5</dimensions>
+        <dimensions>61.5/61.5/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>8041</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -12216,7 +12216,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.70</weight>
-        <dimensions>66,8/66,8/20,5</dimensions>
+        <dimensions>66.8/66.8/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10703</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -12252,7 +12252,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.60</weight>
-        <dimensions>64,8/64,8/20,5</dimensions>
+        <dimensions>64.8/64.8/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8404</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -12288,7 +12288,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>11.80</weight>
-        <dimensions>66,4/66,4/21,5</dimensions>
+        <dimensions>66.4/66.4/21.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11484</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -12324,7 +12324,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>10.90</weight>
-        <dimensions>64,7/64,7/21,5</dimensions>
+        <dimensions>64.7/64.7/21.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14124</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -12360,7 +12360,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>8.40</weight>
-        <dimensions>61,5/61,5/19,5</dimensions>
+        <dimensions>61.5/61.5/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7645</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -12396,7 +12396,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.20</weight>
-        <dimensions>68,6/68,6/21,5</dimensions>
+        <dimensions>68.6/68.6/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>12199</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -12432,7 +12432,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>17.50</weight>
-        <dimensions>77,6/77,6/26,5</dimensions>
+        <dimensions>77.6/77.6/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>19668</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -12468,7 +12468,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>11.60</weight>
-        <dimensions>69,4/69,4/21,5</dimensions>
+        <dimensions>69.4/69.4/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14839</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -12504,7 +12504,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>14.20</weight>
-        <dimensions>71,6/71,6/23,5</dimensions>
+        <dimensions>71.6/71.6/23.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>20515</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -12540,7 +12540,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>10.40</weight>
-        <dimensions>65,2/65,2/20,5</dimensions>
+        <dimensions>65.2/65.2/20.5</dimensions>
         <param name="Объем">0.09</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9779</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -12576,7 +12576,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.80</weight>
-        <dimensions>69/69/21,5</dimensions>
+        <dimensions>69/69/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>15378</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -12612,7 +12612,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.00</weight>
-        <dimensions>66,9/66,9/23,5</dimensions>
+        <dimensions>66.9/66.9/23.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>20064</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -12648,7 +12648,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>18</count>
       <disabled>false</disabled><oldprice>7282</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -12684,7 +12684,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.80</weight>
-        <dimensions>57,6/57,6/19,5</dimensions>
+        <dimensions>57.6/57.6/19.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6787</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -12720,7 +12720,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.70</weight>
-        <dimensions>70,2/70,2/22,5</dimensions>
+        <dimensions>70.2/70.2/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18656</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -12756,7 +12756,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>5.80</weight>
-        <dimensions>54,7/54,7/15,5</dimensions>
+        <dimensions>54.7/54.7/15.5</dimensions>
         <param name="Объем">0.05</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>5962</oldprice><param name="Ширина профиля">155</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -12792,7 +12792,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.00</weight>
-        <dimensions>57,8/57,8/15,5</dimensions>
+        <dimensions>57.8/57.8/15.5</dimensions>
         <param name="Объем">0.05</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6248</oldprice><param name="Ширина профиля">155</param><param name="Высота профиля">80</param><param name="Камерные">Нет</param></offer>
@@ -12828,7 +12828,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>5.90</weight>
-        <dimensions>57/57/16,5</dimensions>
+        <dimensions>57/57/16.5</dimensions>
         <param name="Объем">0.05</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6270</oldprice><param name="Ширина профиля">165</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -12864,7 +12864,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>6.70</weight>
-        <dimensions>57,5/57,5/17,5</dimensions>
+        <dimensions>57.5/57.5/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>6523</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -12900,7 +12900,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>11.70</weight>
-        <dimensions>66,8/66,8/21,5</dimensions>
+        <dimensions>66.8/66.8/21.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14575</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -12936,7 +12936,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>14.20</weight>
-        <dimensions>72,1/72,1/22,5</dimensions>
+        <dimensions>72.1/72.1/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14124</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -12972,7 +12972,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>8.90</weight>
-        <dimensions>59,6/59,6/19,5</dimensions>
+        <dimensions>59.6/59.6/19.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9647</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -13008,7 +13008,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>9.10</weight>
-        <dimensions>63,2/63,2/20,5</dimensions>
+        <dimensions>63.2/63.2/20.5</dimensions>
         <param name="Объем">0.08</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9009</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -13044,7 +13044,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>14.80</weight>
-        <dimensions>70,7/70,7/21,5</dimensions>
+        <dimensions>70.7/70.7/21.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13266</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -13080,7 +13080,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>7.20</weight>
-        <dimensions>60,1/60,1/17,5</dimensions>
+        <dimensions>60.1/60.1/17.5</dimensions>
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6886</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
@@ -13116,7 +13116,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>19.50</weight>
-        <dimensions>79,9/79,9/28,5</dimensions>
+        <dimensions>79.9/79.9/28.5</dimensions>
         <param name="Объем">0.18</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>22308</oldprice><param name="Ширина профиля">285</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -13152,7 +13152,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.30</weight>
-        <dimensions>73,9/73,9/23,5</dimensions>
+        <dimensions>73.9/73.9/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18414</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -13188,7 +13188,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>12.60</weight>
-        <dimensions>70,5/70,5/22,5</dimensions>
+        <dimensions>70.5/70.5/22.5</dimensions>
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18172</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -13224,7 +13224,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.00</weight>
-        <dimensions>77,5/77,5/26,5</dimensions>
+        <dimensions>77.5/77.5/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>21010</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
@@ -13260,7 +13260,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.60</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
+        <dimensions>72.4/72.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>14443</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -13296,7 +13296,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>18.30</weight>
-        <dimensions>77,3/77,3/26,5</dimensions>
+        <dimensions>77.3/77.3/26.5</dimensions>
         <param name="Объем">0.16</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>15609</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
@@ -13332,7 +13332,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>16.50</weight>
-        <dimensions>73,8/73,8/25,5</dimensions>
+        <dimensions>73.8/73.8/25.5</dimensions>
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>17380</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -13368,7 +13368,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>9.80</weight>
-        <dimensions>66/66/22,5</dimensions>
+        <dimensions>66/66/22.5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>12056</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
@@ -13404,7 +13404,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>15.10</weight>
-        <dimensions>74,1/74,1/23,5</dimensions>
+        <dimensions>74.1/74.1/23.5</dimensions>
         <param name="Объем">0.13</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>14190</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -13440,7 +13440,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>14.20</weight>
-        <dimensions>71,6/71,6/23,5</dimensions>
+        <dimensions>71.6/71.6/23.5</dimensions>
         <param name="Объем">0.12</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>12342</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
@@ -13476,7 +13476,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
+        <dimensions>62.2/62.2/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9152</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -13512,7 +13512,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
         <weight>13.60</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
+        <dimensions>72.4/72.4/22.5</dimensions>
         <param name="Объем">0.12</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>11352</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
@@ -13548,7 +13548,7 @@
         <param name="FR">Нет</param>
         <param name="XL">Да</param>
         <weight>8.30</weight>
-        <dimensions>60,3/60,3/18,5</dimensions>
+        <dimensions>60.3/60.3/18.5</dimensions>
         <param name="Объем">0.07</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>6523</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
