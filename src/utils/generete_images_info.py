@@ -28,7 +28,3 @@ def generate_images_info(worksheet: Wor):
         add_text_to_image(image_url=item_data['picture'],
                           texts=image_texts,
                           output_filename=str(item_data['id']))
-
-
-    # add_text_to_image(image_url='https://images.robotyre.ru/productimages/c67a709e1482451991fb5dc9a324019b/Big.png',
-    #                   texts=['165/65 14 79H Triangle TE301', '2025 год', 'пакеты в подарок', 'зима шипы', 'Россия'], output_filename='../test/output.png')
