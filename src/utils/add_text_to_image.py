@@ -4,7 +4,7 @@ import requests
 from io import BytesIO
 from pathlib import Path
 
-
+#Функция для добавления текста на изображение
 def add_text_to_image(image_url: str, texts: list[str], output_filename: str):
     """Добавляет текст с закруглёнными прямоугольниками на изображение"""
     script_dir = Path(__file__).parent.parent  # Поднимаемся на уровень выше из utils

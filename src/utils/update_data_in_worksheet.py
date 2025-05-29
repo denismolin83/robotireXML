@@ -41,5 +41,9 @@ def update_data_in_worksheet(worksheet: Wor, root: ET.Element):
 
     print(len(data), data)
 
+
     df = pd.DataFrame(data, columns=['id', 'name', 'count', 'price', 'status_ya', 'picture', 'year', 'country', 'season'])
+    df = df.fillna('')
     worksheet.update([df.columns.values.tolist()] + df.values.tolist())
+
+

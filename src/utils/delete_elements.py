@@ -1,8 +1,12 @@
-from frplib.parsing.kind_strings import weight
 from gspread.worksheet import Worksheet as Wor
 from xml.etree import ElementTree as ET
+import requests
+
+from src.utils.get_files_list_from_ftp import get_files_list_from_ftp
+from src.config import settings
 
 
+#Формируем файл с нужными нам товарами для выгрузки на яндекс, в дальнейшем передаем на ФТП и от туда уже папдает на яндекс
 def delete_elements(worksheet: Wor, tree: ET.ElementTree, filename_local: str):
     data = worksheet.get_all_records()
     root = tree.getroot()
@@ -15,12 +19,25 @@ def delete_elements(worksheet: Wor, tree: ET.ElementTree, filename_local: str):
 
     print(len(need_ids), need_ids)
 
+    list_image_ftp = get_files_list_from_ftp(settings.REMOTE_IMAGES_PATH)
+
     offers = root.findall('.//offer')
     offers_to_delete = []
+
     for offer in offers:
         #disabled - тег отвечающий за возврат/скрытие товара с витрины
         disable_element = ET.SubElement(offer, 'disabled')
         disable_element.text = 'false'
+
+        # Добавляем фото с инфографикой есл иона есть на ФТП для данного элемента
+        url_image = f'https://shopkolesa.ru/upload/ym/images/{offer.get('id')}.png'
+        name_image = f'{offer.get('id')}.png'
+        if name_image in list_image_ftp:
+            picture_old = offer.find('picture')
+            name_picture_old = picture_old.text
+            picture_new = ET.SubElement(offer, 'picture')
+            picture_old.text = url_image
+            picture_new.text = name_picture_old
 
         #Добавляем зачеркнутую цену
         old_price = ET.SubElement(offer, 'oldprice')

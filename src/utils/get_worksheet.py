@@ -4,7 +4,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 from src.config import settings
 
-
+#Получение листа с данными из гугл таблицы
 def get_worksheet(name_sheet: str) -> gspread.Worksheet:
     current_dir = os.path.dirname(__file__)
     parent_dir = os.path.dirname(current_dir)
