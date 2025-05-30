@@ -3,3 +3,6 @@ robotyrexml-97b85c8843b9.json
 /venv
 /.idea
 /src/images_info
+__pycache__/
+*.pyc
+/src/__pycache__/

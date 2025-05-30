@@ -1,5 +1,6 @@
 from src.config import settings
 from src.utils.delete_elements import delete_elements
+from src.utils.generete_images_info import generate_images_info
 from src.utils.get_worksheet import get_worksheet
 from src.utils.get_xml_tree import get_xml_tree
 from src.utils.save_to_ftp import save_to_ftp
@@ -20,9 +21,9 @@ update_data_in_worksheet(worksheet=worksheet, root=root)
 delete_elements(worksheet=worksheet, tree=tree, filename_local='output.xml')
 
 #выкладываем полученный файл на FTP shopkolesa.ru
-save_to_ftp(file_parth_local=['output.xml'],
-            remote_path=settings.REMOTE_FILE_PATH,
-            remote_file_name=[settings.REMOTE_FILE_NAME])
+# save_to_ftp(file_parth_local=['output.xml'],
+#             remote_path=settings.REMOTE_FILE_PATH,
+#             remote_file_name=[settings.REMOTE_FILE_NAME])
 
 #генерируем фото с инфографикой
 #generate_images_info(worksheet=worksheet)

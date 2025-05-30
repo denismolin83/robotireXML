@@ -1,9 +1,30 @@
 from gspread.worksheet import Worksheet as Wor
 from xml.etree import ElementTree as ET
-import requests
+import re
 
 from src.utils.get_files_list_from_ftp import get_files_list_from_ftp
 from src.config import settings
+
+
+def find_max_numbered_file(files: list[str], name: str) -> str | bool:
+    """
+    Находит файл с максимальным номером для заданного наименования в списке файлов.
+    """
+
+    pattern = re.compile(rf"^{name}_(\d+)\.png$")
+    max_num = -1
+    max_file = None
+
+    for filename in files:
+        match = pattern.match(filename)
+        if match:
+            current_num = int(match.group(1))
+            if current_num > max_num:
+                max_num = current_num
+                max_file = filename
+
+    return max_file if max_file else False
+
 
 
 #Формируем файл с нужными нам товарами для выгрузки на яндекс, в дальнейшем передаем на ФТП и от туда уже папдает на яндекс
@@ -30,9 +51,10 @@ def delete_elements(worksheet: Wor, tree: ET.ElementTree, filename_local: str):
         disable_element.text = 'false'
 
         # Добавляем фото с инфографикой есл иона есть на ФТП для данного элемента
-        url_image = f'https://shopkolesa.ru/upload/ym/images/{offer.get('id')}.png'
-        name_image = f'{offer.get('id')}.png'
-        if name_image in list_image_ftp:
+        #url_image = f'https://shopkolesa.ru/upload/ym/images/{offer.get('id')}.png'
+        name_image = find_max_numbered_file(files=list_image_ftp, name=offer.get('id'))
+        if name_image:
+            url_image = f'https://shopkolesa.ru/upload/ym/images/{name_image}'
             picture_old = offer.find('picture')
             name_picture_old = picture_old.text
             picture_new = ET.SubElement(offer, 'picture')
