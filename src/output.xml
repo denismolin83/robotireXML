@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-05-30T09:46+07:00">
+<yml_catalog date="2025-06-01T01:34+07:00">
   <shop>
     <name>Интеркар-Колёса</name>
     <company>ИП Молин Денис Владимирович</company>
@@ -88,6 +88,42 @@
         <param name="Объем">0.12</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>12177</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="371135">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>5570</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/135cbc4c026a465894e98f9896bd45ce/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 165/55 14 72H Triangle TR978</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">165.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R14</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">72H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>5.70</weight>
+        <dimensions>53,7/53,7/16,5</dimensions>
+        <param name="Объем">0.05</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>6127</oldprice><param name="Ширина профиля">165</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="271148">
         <vendor>Triangle</vendor>
         <vendorCode>CBPTE30116F14TFJ</vendorCode>
@@ -736,6 +772,42 @@
         <param name="Объем">0.07</param>
         <count>14</count>
       <disabled>false</disabled><oldprice>6842</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
+      <offer id="351531">
+        <vendor>Roadcruza</vendor>
+        <vendorCode>RA43906</vendorCode>
+        <price>15330</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/50a3fd38af98482f860efaa13ae7bd04/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 265/65 17 112S Roadcruza RA 1100</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">265.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">112S</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Да</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>19.25</weight>
+        <dimensions>77,6/77,6/26,5</dimensions>
+        <param name="Объем">0.16</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>16863</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="198729">
         <vendor>Кама</vendor>
         <vendorCode>1110002</vendorCode>
@@ -1492,6 +1564,42 @@
         <param name="Объем">0.17</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18018</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
+      <offer id="287496">
+        <vendor>Sailun</vendor>
+        <vendorCode>3220010764</vendorCode>
+        <price>4850</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/c6fade45869a4969a2ac99d5877502c2/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 165/70 14 85T Sailun ATREZZO ECO</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">165.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R14</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">85T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>6.80</weight>
+        <dimensions>58,7/58,7/16,5</dimensions>
+        <param name="Объем">0.06</param>
+        <count>8</count>
+      <disabled>false</disabled><oldprice>5335</oldprice><param name="Ширина профиля">165</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
       <offer id="396628">
         <vendor>Sailun</vendor>
         <vendorCode />
@@ -1564,6 +1672,78 @@
         <param name="Объем">0.18</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>20900</oldprice><param name="Ширина профиля">285</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="308393">
+        <vendor>Roadcruza</vendor>
+        <vendorCode>RA44103</vendorCode>
+        <price>17360</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/50a3fd38af98482f860efaa13ae7bd04/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 245/75 16 120/116R Roadcruza RA 1100</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">245.00</param>
+        <param name="Высота">75.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">120/116R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Да</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>23.21</weight>
+        <dimensions>77,4/77,4/24,5</dimensions>
+        <param name="Объем">0.15</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>19096</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">75</param><param name="Камерные">Нет</param></offer>
+      <offer id="308400">
+        <vendor>Roadcruza</vendor>
+        <vendorCode>RA43803</vendorCode>
+        <price>15330</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/50a3fd38af98482f860efaa13ae7bd04/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/70 16 104S Roadcruza RA 1100</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">104S</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Да</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>17.93</weight>
+        <dimensions>73,5/73,5/23,5</dimensions>
+        <param name="Объем">0.13</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>16863</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
       <offer id="260160">
         <vendor>Triangle</vendor>
         <vendorCode />
@@ -1639,7 +1819,7 @@
       <offer id="308379">
         <vendor>Roadcruza</vendor>
         <vendorCode>RA132701</vendorCode>
-        <price>14340</price>
+        <price>12440</price>
         <categoryId>102</categoryId>
         <category>Шины</category>
         <picture>https://images.robotyre.ru/productimages/50a3fd38af98482f860efaa13ae7bd04/Big.png</picture>
@@ -1671,7 +1851,7 @@
         <dimensions>68,6/68,6/21,5</dimensions>
         <param name="Объем">0.10</param>
         <count>4</count>
-      <disabled>false</disabled><oldprice>15774</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <disabled>false</disabled><oldprice>13684</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="355557">
         <vendor>Yokohama</vendor>
         <vendorCode>R7523</vendorCode>
@@ -2248,6 +2428,42 @@
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>17974</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="282678">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTR92815D13TH0</vendorCode>
+        <price>4850</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/66b1b86d8ac241d580fcdd699d16618d/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 155/80 13 79T Triangle TR928</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">155.00</param>
+        <param name="Высота">80.00</param>
+        <param name="Диаметр">R13</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">79T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>6.00</weight>
+        <dimensions>57,8/57,8/15,5</dimensions>
+        <param name="Объем">0.05</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>5335</oldprice><param name="Ширина профиля">155</param><param name="Высота профиля">80</param><param name="Камерные">Нет</param></offer>
       <offer id="301664">
         <vendor>Hankook</vendor>
         <vendorCode>1024240</vendorCode>
@@ -2464,6 +2680,42 @@
         <param name="Объем">0.12</param>
         <count>8</count>
       <disabled>false</disabled><picture>https://images.robotyre.ru/productimages/66b1b86d8ac241d580fcdd699d16618d/Big.png</picture><oldprice>11814</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="312849">
+        <vendor>Yokohama</vendor>
+        <vendorCode>R5710</vendorCode>
+        <price>15480</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/a0d769b8c5a6411c947411e7c2e8fd2e/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/70 16 103H Yokohama Geolandar CV G058</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>14.20</weight>
+        <dimensions>72,1/72,1/22,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>17028</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
       <offer id="206919">
         <vendor>Linglong</vendor>
         <vendorCode>1132522</vendorCode>
@@ -2572,6 +2824,42 @@
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6633</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="336217">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>12440</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d9db88e9f70947d2b786b5801ad73dc6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 255/55 18 109T Triangle IcelynX TI501</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">255.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">109T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>16.40</weight>
+        <dimensions>73,8/73,8/25,5</dimensions>
+        <param name="Объем">0.14</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>13684</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="251352">
         <vendor>Triangle</vendor>
         <vendorCode>CTS164391</vendorCode>
@@ -2644,6 +2932,42 @@
         <param name="Объем">0.15</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13684</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="340838">
+        <vendor>Yokohama</vendor>
+        <vendorCode>R6061</vendorCode>
+        <price>14400</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/a693a7a1cd1b4718b5b1ef2acb84929d/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 205/50 17 93W Yokohama BluEarth-GT AE51</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">93W</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>10.10</weight>
+        <dimensions>63,7/63,7/20,5</dimensions>
+        <param name="Объем">0.08</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>15840</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
       <offer id="254348">
         <vendor>Triangle</vendor>
         <vendorCode>CTS164395</vendorCode>
@@ -2752,6 +3076,42 @@
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8371</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="281001">
+        <vendor>Yokohama</vendor>
+        <vendorCode>R2459</vendorCode>
+        <price>8950</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/cd22d914971343d492a549b2058c1c10/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 205/65 15 99H Yokohama Bluearth ES32</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">99H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>9.60</weight>
+        <dimensions>64,8/64,8/20,5</dimensions>
+        <param name="Объем">0.09</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>9845</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="283301">
         <vendor>Yokohama</vendor>
         <vendorCode>R2424</vendorCode>
@@ -3292,6 +3652,78 @@
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><picture>https://images.robotyre.ru/productimages/d9db88e9f70947d2b786b5801ad73dc6/Big.png</picture><oldprice>7777</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="377900">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>8910</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d9db88e9f70947d2b786b5801ad73dc6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 205/65 16 95T Triangle IcelynX TI501</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">95T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>11.20</weight>
+        <dimensions>67,3/67,3/20,5</dimensions>
+        <param name="Объем">0.09</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>9801</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="285790">
+        <vendor>Yokohama</vendor>
+        <vendorCode>R2418</vendorCode>
+        <price>6970</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/cd22d914971343d492a549b2058c1c10/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 175/65 14 82H Yokohama Bluearth ES32</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">175.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R14</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">82H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>6.90</weight>
+        <dimensions>58,3/58,3/17,5</dimensions>
+        <param name="Объем">0.06</param>
+        <count>8</count>
+      <disabled>false</disabled><oldprice>7667</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="257223">
         <vendor>Triangle</vendor>
         <vendorCode>CTS164390</vendorCode>
@@ -3688,42 +4120,6 @@
         <param name="Объем">0.06</param>
         <count>20</count>
       <disabled>false</disabled><oldprice>5335</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
-      <offer id="355550">
-        <vendor>Yokohama</vendor>
-        <vendorCode>R7526</vendorCode>
-        <price>14410</price>
-        <categoryId>102</categoryId>
-        <category>Шины</category>
-        <picture>https://images.robotyre.ru/productimages/8e7cf62218264620b4e858a6e7502904/Big.png</picture>
-        <min-quantity>2</min-quantity>
-        <step-quantity>2</step-quantity>
-        <delivery>true</delivery>
-        <option cost="" days="0" order-before="" />
-        <pickup>true</pickup>
-        <option cost="" days="0" order-before="" />
-        <cargo-types>CIS_REQUIRED</cargo-types>
-        <name>Шина 225/65 17 102H Yokohama BluEarth-XT AE61</name>
-        <tn-ved-codes>
-          <tn-ved-code>4011100009</tn-ved-code>
-        </tn-ved-codes>
-        <param name="Ширина">225.00</param>
-        <param name="Высота">65.00</param>
-        <param name="Диаметр">R17</param>
-        <param name="Сезон">Лето</param>
-        <param name="RunFlat">Нет</param>
-        <param name="Легкогрузовая">Нет</param>
-        <param name="Индексы">102H</param>
-        <param name="Система" />
-        <param name="Омологация" />
-        <param name="Грязевая">Нет</param>
-        <param name="A/T">Нет</param>
-        <param name="FR">Нет</param>
-        <param name="XL">Нет</param>
-        <weight>13.60</weight>
-        <dimensions>72,4/72,4/22,5</dimensions>
-        <param name="Объем">0.12</param>
-        <count>4</count>
-      <disabled>false</disabled><oldprice>15851</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="397705">
         <vendor>Hankook</vendor>
         <vendorCode>1032103</vendorCode>
@@ -4228,6 +4624,78 @@
         <param name="Объем">0.11</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>11242</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="409905">
+        <vendor>Triangle</vendor>
+        <vendorCode>CTS281730</vendorCode>
+        <price>9760</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/71c9e37334354b1db0055ff2938bdf2c/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/35 19 91Y Triangle EffeXSport TH202</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">35.00</param>
+        <param name="Диаметр">R19</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">91Y</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>10.30</weight>
+        <dimensions>64,7/64,7/23,5</dimensions>
+        <param name="Объем">0.10</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>10736</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">35</param><param name="Камерные">Нет</param></offer>
+      <offer id="409904">
+        <vendor>Triangle</vendor>
+        <vendorCode>CTS281725</vendorCode>
+        <price>11790</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/71c9e37334354b1db0055ff2938bdf2c/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/50 19 103W Triangle EffeXSport TH202</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">R19</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103W</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>15.00</weight>
+        <dimensions>71,8/71,8/23,5</dimensions>
+        <param name="Объем">0.13</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>12969</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
       <offer id="409903">
         <vendor>Triangle</vendor>
         <vendorCode>CTS281713</vendorCode>
@@ -4912,6 +5380,42 @@
         <param name="Объем">0.06</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6798</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="243395">
+        <vendor>Yokohama</vendor>
+        <vendorCode>R1151</vendorCode>
+        <price>19190</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/e982989aba534aff9c92fc8b0201b456/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 265/70 15 112H Yokohama Geolandar A/T G015</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">265.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">112H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Да</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>19.25</weight>
+        <dimensions>75,2/75,2/26,5</dimensions>
+        <param name="Объем">0.15</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>21109</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
       <offer id="413106">
         <vendor>Sonix</vendor>
         <vendorCode>2576</vendorCode>
@@ -5128,6 +5632,42 @@
         <param name="Объем">0.09</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>10373</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
+      <offer id="356355">
+        <vendor>Yokohama</vendor>
+        <vendorCode>R7082</vendorCode>
+        <price>19490</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/518a628bdc45434eb70094073949f930/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/45 18 91V Yokohama BluEarth-GT AE51H</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">45.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">91V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>9.80</weight>
+        <dimensions>66/66/22,5</dimensions>
+        <param name="Объем">0.10</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>21439</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
       <offer id="312703">
         <vendor>Triangle</vendor>
         <vendorCode>CTS228120</vendorCode>
@@ -5524,6 +6064,42 @@
         <param name="Объем">0.09</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>10450</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="411035">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTH20223J17WFJ</vendorCode>
+        <price>10480</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/71c9e37334354b1db0055ff2938bdf2c/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/55 17 103W Triangle EffeXSport TH202</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103W</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>12.30</weight>
+        <dimensions>69/69/23,5</dimensions>
+        <param name="Объем">0.11</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>11528</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="411036">
         <vendor>Triangle</vendor>
         <vendorCode>CBPTH20223J18WFJ</vendorCode>
@@ -6352,6 +6928,42 @@
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7854</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
+      <offer id="285857">
+        <vendor>Pirelli</vendor>
+        <vendorCode>2622800</vendorCode>
+        <price>6750</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/2817abaed6764d38987634a021f61446/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/65 15 92H Pirelli Cinturato P1 Verde</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">92H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>7.90</weight>
+        <dimensions>62,2/62,2/18,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>7425</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="243964">
         <vendor>Yokohama</vendor>
         <vendorCode>R1141</vendorCode>
@@ -6388,6 +7000,42 @@
         <param name="Объем">0.16</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>24464</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="266537">
+        <vendor>Yokohama</vendor>
+        <vendorCode>R2231</vendorCode>
+        <price>22440</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/e982989aba534aff9c92fc8b0201b456/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/55 18 98H Yokohama Geolandar A/T G015</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">98H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Да</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>13.86</weight>
+        <dimensions>70,5/70,5/22,5</dimensions>
+        <param name="Объем">0.11</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>24684</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="243963">
         <vendor>Yokohama</vendor>
         <vendorCode>R1138</vendorCode>
@@ -6424,6 +7072,42 @@
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>19888</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="358214">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTR25923J18VFJ</vendorCode>
+        <price>11460</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/6540682ce5cd43fe94c141a30a6950e5/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/55 18 104V Triangle TR259</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">104V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>14.20</weight>
+        <dimensions>71,6/71,6/23,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>12606</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="415660">
         <vendor>Sonix</vendor>
         <vendorCode>2008</vendorCode>
@@ -6496,6 +7180,78 @@
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>13332</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="244702">
+        <vendor>Yokohama</vendor>
+        <vendorCode>R0154</vendorCode>
+        <price>23320</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/cc19b38e70904ecebae3aad13d3a1589/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/55 18 100Y Yokohama Advan V105</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">100Y</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>14.20</weight>
+        <dimensions>71,6/71,6/23,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>25652</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="284416">
+        <vendor>Yokohama</vendor>
+        <vendorCode>R4549</vendorCode>
+        <price>36680</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/252733f45f6c42c9b6c631763cfcf580/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 275/45 21 110W Yokohama Geolandar X-CV G057</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">275.00</param>
+        <param name="Высота">45.00</param>
+        <param name="Диаметр">R21</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">110W</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>17.50</weight>
+        <dimensions>78,1/78,1/27,5</dimensions>
+        <param name="Объем">0.17</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>40348</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
       <offer id="269943">
         <vendor>Triangle</vendor>
         <vendorCode>CBPTR29221F16TH0</vendorCode>
@@ -6532,6 +7288,114 @@
         <param name="Объем">0.11</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>12826</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="251260">
+        <vendor>Triangle</vendor>
+        <vendorCode>CTS238494</vendorCode>
+        <price>10220</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/ff9e229bb8104497a6e75788c014305f/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/70 16 106H Triangle TR777 </name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">106H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>16.30</weight>
+        <dimensions>73,5/73,5/23,5</dimensions>
+        <param name="Объем">0.13</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>11242</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="400759">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>10810</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/ff9e229bb8104497a6e75788c014305f/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/65 17 102H Triangle TR777 </name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">102H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>13.60</weight>
+        <dimensions>72,4/72,4/22,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>11891</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="404680">
+        <vendor>Triangle</vendor>
+        <vendorCode>CTS281700</vendorCode>
+        <price>7730</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/233a5d2209f64e0795937c0116da5350/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 195/50 16 88V Triangle ReliaX TE307</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">195.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">88V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>8.70</weight>
+        <dimensions>60,1/60,1/19,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>8503</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
       <offer id="410954">
         <vendor>Triangle</vendor>
         <vendorCode>CBPTE30720G15VHJ</vendorCode>
@@ -6748,6 +7612,42 @@
         <param name="Объем">0.07</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>7282</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="411421">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTE30719H16VHJ</vendorCode>
+        <price>7790</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/233a5d2209f64e0795937c0116da5350/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 195/60 16 89V Triangle ReliaX TE307</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">195.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">89V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>9.00</weight>
+        <dimensions>64/64/19,5</dimensions>
+        <param name="Объем">0.08</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>8569</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="411435">
         <vendor>Triangle</vendor>
         <vendorCode>CBPTE30719G15HHJ</vendorCode>
@@ -6818,7 +7718,7 @@
         <weight>7.60</weight>
         <dimensions>59,6/59,6/18,5</dimensions>
         <param name="Объем">0.07</param>
-        <count>12</count>
+        <count>8</count>
       <disabled>false</disabled><oldprice>6413</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="411456">
         <vendor>Triangle</vendor>
@@ -6928,6 +7828,42 @@
         <param name="Объем">0.07</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>6842</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="411839">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTE30718H16HHJ</vendorCode>
+        <price>7860</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/233a5d2209f64e0795937c0116da5350/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/60 16 86H Triangle ReliaX TE307</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">86H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>9.20</weight>
+        <dimensions>62,8/62,8/18,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>8646</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="411985">
         <vendor>Triangle</vendor>
         <vendorCode>CBPTE30719J16VHJ</vendorCode>
@@ -6998,8 +7934,44 @@
         <weight>8.90</weight>
         <dimensions>59,6/59,6/19,5</dimensions>
         <param name="Объем">0.07</param>
-        <count>8</count>
+        <count>4</count>
       <disabled>false</disabled><oldprice>7205</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="365110">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBCTR29223B16EHJ</vendorCode>
+        <price>15720</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/6339563c0c6e4d92bf99cdca52dfb65b/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/85 16 120/116Q Triangle AgileX A/T TR292</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">85.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">120/116Q</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Да</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>24.53</weight>
+        <dimensions>80,6/80,6/23,5</dimensions>
+        <param name="Объем">0.15</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>17292</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">85</param><param name="Камерные">Нет</param></offer>
       <offer id="284985">
         <vendor>Кама</vendor>
         <vendorCode>1150018</vendorCode>
@@ -7072,6 +8044,78 @@
         <param name="Объем">0.13</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>13541</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="202584">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTR29223E15SF0</vendorCode>
+        <price>11790</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/6339563c0c6e4d92bf99cdca52dfb65b/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/75 15 109S Triangle AgileX A/T TR292</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">75.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">109S</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Да</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>16.06</weight>
+        <dimensions>73,4/73,4/23,5</dimensions>
+        <param name="Объем">0.13</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>12969</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">75</param><param name="Камерные">Нет</param></offer>
+      <offer id="365097">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBCTR28122E16EHJ</vendorCode>
+        <price>16310</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d7406d398ac84278b8fc8c718df51894/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/75 16 115/112Q Triangle GripX MT TR281</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">75.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">115/112Q</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Да</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>20.41</weight>
+        <dimensions>74,4/74,4/22,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>17941</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">75</param><param name="Камерные">Нет</param></offer>
       <offer id="358385">
         <vendor>Triangle</vendor>
         <vendorCode>CBPTR29226H18HFJ</vendorCode>
@@ -7432,6 +8476,42 @@
         <param name="Объем">0.16</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>15488</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="286139">
+        <vendor>Kumho</vendor>
+        <vendorCode>2161623</vendorCode>
+        <price>11000</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d3a9c9baf4dd47818a1d66ad834efad7/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 205/60 16 92H Kumho HS51</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">92H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>10.40</weight>
+        <dimensions>65,2/65,2/20,5</dimensions>
+        <param name="Объем">0.09</param>
+        <count>8</count>
+      <disabled>false</disabled><oldprice>12100</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="202583">
         <vendor>Triangle</vendor>
         <vendorCode>CBPTR29223G17TH0</vendorCode>
@@ -7828,6 +8908,114 @@
         <param name="Объем">0.10</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>10450</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="377377">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>6810</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d9db88e9f70947d2b786b5801ad73dc6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/60 14 86T Triangle IcelynX TI501</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R14</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">86T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>7.00</weight>
+        <dimensions>57,8/57,8/18,5</dimensions>
+        <param name="Объем">0.06</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>7491</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="353336">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>13100</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d9db88e9f70947d2b786b5801ad73dc6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/60 18 104T Triangle IcelynX TI501</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">104T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>13.30</weight>
+        <dimensions>72,7/72,7/22,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>14410</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="335940">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>12440</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d9db88e9f70947d2b786b5801ad73dc6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/60 18 107T Triangle IcelynX TI501</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">107T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>16.30</weight>
+        <dimensions>73,9/73,9/23,5</dimensions>
+        <param name="Объем">0.13</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>13684</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="285788">
         <vendor>Yokohama</vendor>
         <vendorCode>R2426</vendorCode>
@@ -8008,6 +9196,42 @@
         <param name="Объем">0.10</param>
         <count>6</count>
       <disabled>false</disabled><oldprice>9801</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="334389">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>10870</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d9db88e9f70947d2b786b5801ad73dc6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 205/50 17 93T Triangle IcelynX TI501</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">93T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>10.10</weight>
+        <dimensions>63,7/63,7/20,5</dimensions>
+        <param name="Объем">0.08</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>11957</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
       <offer id="283181">
         <vendor>Yokohama</vendor>
         <vendorCode>R2442</vendorCode>
@@ -8368,6 +9592,42 @@
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>6050</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="334907">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>11140</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d9db88e9f70947d2b786b5801ad73dc6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/55 18 104T Triangle IcelynX TI501</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">104T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>14.20</weight>
+        <dimensions>71,6/71,6/23,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>12254</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="284167">
         <vendor>Yokohama</vendor>
         <vendorCode>R2439</vendorCode>
@@ -8404,6 +9664,42 @@
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11110</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="334220">
+        <vendor>Triangle</vendor>
+        <vendorCode />
+        <price>11140</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d9db88e9f70947d2b786b5801ad73dc6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/60 17 103T Triangle IcelynX TI501</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>13.70</weight>
+        <dimensions>70,2/70,2/22,5</dimensions>
+        <param name="Объем">0.11</param>
+        <count>6</count>
+      <disabled>false</disabled><oldprice>12254</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="401884">
         <vendor>Triangle</vendor>
         <vendorCode>CTS281716</vendorCode>
@@ -8582,7 +9878,7 @@
         <weight>12.10</weight>
         <dimensions>68,5/68,5/22,5</dimensions>
         <param name="Объем">0.11</param>
-        <count>10</count>
+        <count>6</count>
       <disabled>false</disabled><oldprice>11451</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
       <offer id="406433">
         <vendor>Triangle</vendor>
@@ -8872,6 +10168,42 @@
         <param name="Объем">0.12</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>12397</oldprice><param name="Ширина профиля">255</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
+      <offer id="411293">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTH20223L17YFJ</vendorCode>
+        <price>9040</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/71c9e37334354b1db0055ff2938bdf2c/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/45 17 97Y Triangle EffeXSport TH202</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">45.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">97Y</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>11.30</weight>
+        <dimensions>64,3/64,3/23,5</dimensions>
+        <param name="Объем">0.10</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>9944</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
       <offer id="411310">
         <vendor>Maxtrek</vendor>
         <vendorCode />
@@ -8908,6 +10240,42 @@
         <param name="Объем">0.18</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18018</oldprice><param name="Ширина профиля">285</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
+      <offer id="411713">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTH20221L16VFJ</vendorCode>
+        <price>8450</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/71c9e37334354b1db0055ff2938bdf2c/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 215/45 16 90V Triangle EffeXSport TH202</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">215.00</param>
+        <param name="Высота">45.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">90V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>9.50</weight>
+        <dimensions>60/60/21,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>9295</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
       <offer id="393679">
         <vendor>Triangle</vendor>
         <vendorCode>CBPTH20222J17YFJ</vendorCode>
@@ -9340,42 +10708,6 @@
         <param name="Объем">0.17</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>17149</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
-      <offer id="403188">
-        <vendor>Triangle</vendor>
-        <vendorCode>CTS281702</vendorCode>
-        <price>8520</price>
-        <categoryId>102</categoryId>
-        <category>Шины</category>
-        <picture>https://images.robotyre.ru/productimages/233a5d2209f64e0795937c0116da5350/Big.png</picture>
-        <min-quantity>2</min-quantity>
-        <step-quantity>2</step-quantity>
-        <delivery>true</delivery>
-        <option cost="" days="0" order-before="" />
-        <pickup>true</pickup>
-        <option cost="" days="0" order-before="" />
-        <cargo-types>CIS_REQUIRED</cargo-types>
-        <name>Шина 215/55 16 97W Triangle ReliaX TE307</name>
-        <tn-ved-codes>
-          <tn-ved-code>4011100003</tn-ved-code>
-        </tn-ved-codes>
-        <param name="Ширина">215.00</param>
-        <param name="Высота">55.00</param>
-        <param name="Диаметр">R16</param>
-        <param name="Сезон">Лето</param>
-        <param name="RunFlat">Нет</param>
-        <param name="Легкогрузовая">Нет</param>
-        <param name="Индексы">97W</param>
-        <param name="Система" />
-        <param name="Омологация" />
-        <param name="Грязевая">Нет</param>
-        <param name="A/T">Нет</param>
-        <param name="FR">Нет</param>
-        <param name="XL">Да</param>
-        <weight>10.10</weight>
-        <dimensions>64,3/64,3/21,5</dimensions>
-        <param name="Объем">0.09</param>
-        <count>4</count>
-      <disabled>false</disabled><oldprice>9372</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="414172">
         <vendor>Sonix</vendor>
         <vendorCode>2567</vendorCode>
@@ -10240,6 +11572,42 @@
         <param name="Объем">0.10</param>
         <count>10</count>
       <disabled>false</disabled><oldprice>12254</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">40</param><param name="Камерные">Нет</param></offer>
+      <offer id="284516">
+        <vendor>Yokohama</vendor>
+        <vendorCode>E4775</vendorCode>
+        <price>14410</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/0be833a2905345de96b0e76b6fbfc14b/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/75 16 104/102S Yokohama BluEarth-Van RY55</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">75.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Да</param>
+        <param name="Индексы">104/102S</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>15.75</weight>
+        <dimensions>68,4/68,4/18,5</dimensions>
+        <param name="Объем">0.09</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>15851</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">75</param><param name="Камерные">Нет</param></offer>
       <offer id="327472">
         <vendor>Formula</vendor>
         <vendorCode>2342000</vendorCode>
@@ -10456,6 +11824,42 @@
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>11451</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="296052">
+        <vendor>Triangle</vendor>
+        <vendorCode>CTS219743</vendorCode>
+        <price>11200</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/6540682ce5cd43fe94c141a30a6950e5/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/70 16 103H Triangle TR259</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>14.20</weight>
+        <dimensions>72,1/72,1/22,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>12320</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
       <offer id="327448">
         <vendor>Formula</vendor>
         <vendorCode>2175900</vendorCode>
@@ -11644,13 +13048,13 @@
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>18018</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
-      <offer id="280837">
+      <offer id="278892">
         <vendor>Yokohama</vendor>
-        <vendorCode>R0410</vendorCode>
-        <price>15290</price>
+        <vendorCode>R4508</vendorCode>
+        <price>11990</price>
         <categoryId>102</categoryId>
         <category>Шины</category>
-        <picture>https://images.robotyre.ru/productimages/0fc01e79aa7a4bcc83f802a8c7c23d77/Big.png</picture>
+        <picture>https://images.robotyre.ru/productimages/8285f4d1a3f940079d7a69c87296f23f/Big.png</picture>
         <min-quantity>2</min-quantity>
         <step-quantity>2</step-quantity>
         <delivery>true</delivery>
@@ -11658,28 +13062,28 @@
         <pickup>true</pickup>
         <option cost="" days="0" order-before="" />
         <cargo-types>CIS_REQUIRED</cargo-types>
-        <name>Шина 215/55 17 94W Yokohama Advan Fleva V701</name>
+        <name>Шина 205/65 16 99T Yokohama Ice Guard IG65</name>
         <tn-ved-codes>
-          <tn-ved-code>4011100009</tn-ved-code>
+          <tn-ved-code>4011100003</tn-ved-code>
         </tn-ved-codes>
-        <param name="Ширина">215.00</param>
-        <param name="Высота">55.00</param>
-        <param name="Диаметр">R17</param>
-        <param name="Сезон">Лето</param>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Зима / Шипы</param>
         <param name="RunFlat">Нет</param>
         <param name="Легкогрузовая">Нет</param>
-        <param name="Индексы">94W</param>
+        <param name="Индексы">99T</param>
         <param name="Система" />
         <param name="Омологация" />
         <param name="Грязевая">Нет</param>
         <param name="A/T">Нет</param>
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
-        <weight>11.70</weight>
-        <dimensions>66,8/66,8/21,5</dimensions>
-        <param name="Объем">0.10</param>
+        <weight>11.20</weight>
+        <dimensions>67,3/67,3/20,5</dimensions>
+        <param name="Объем">0.09</param>
         <count>4</count>
-      <disabled>false</disabled><oldprice>16819</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <disabled>false</disabled><oldprice>13189</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="374461">
         <vendor>Nexen</vendor>
         <vendorCode>NXK18419</vendorCode>
@@ -11788,6 +13192,42 @@
         <param name="Объем">0.08</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>6985</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="289430">
+        <vendor>Sailun</vendor>
+        <vendorCode>3220010706</vendorCode>
+        <price>7530</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/f9f71821a6af4c1186522b47f9866457/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 195/50 16 88V Sailun Atrezzo ELITE</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">195.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">88V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>8.70</weight>
+        <dimensions>60,1/60,1/19,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>8283</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
       <offer id="349035">
         <vendor>Yokohama</vendor>
         <vendorCode>R6791</vendorCode>
@@ -11824,10 +13264,10 @@
         <param name="Объем">0.19</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>43230</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
-      <offer id="317119">
+      <offer id="246966">
         <vendor>Sailun</vendor>
-        <vendorCode>3220010696</vendorCode>
-        <price>5900</price>
+        <vendorCode>3220010714</vendorCode>
+        <price>7860</price>
         <categoryId>102</categoryId>
         <category>Шины</category>
         <picture>https://images.robotyre.ru/productimages/f9f71821a6af4c1186522b47f9866457/Big.png</picture>
@@ -11838,28 +13278,28 @@
         <pickup>true</pickup>
         <option cost="" days="0" order-before="" />
         <cargo-types>CIS_REQUIRED</cargo-types>
-        <name>Шина 185/55 15 82V Sailun Atrezzo ELITE</name>
+        <name>Шина 205/50 16 87V Sailun Atrezzo ELITE</name>
         <tn-ved-codes>
           <tn-ved-code>4011100003</tn-ved-code>
         </tn-ved-codes>
-        <param name="Ширина">185.00</param>
-        <param name="Высота">55.00</param>
-        <param name="Диаметр">R15</param>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">R16</param>
         <param name="Сезон">Лето</param>
         <param name="RunFlat">Нет</param>
         <param name="Легкогрузовая">Нет</param>
-        <param name="Индексы">82V</param>
+        <param name="Индексы">87V</param>
         <param name="Система" />
         <param name="Омологация" />
         <param name="Грязевая">Нет</param>
         <param name="A/T">Нет</param>
         <param name="FR">Нет</param>
         <param name="XL">Нет</param>
-        <weight>7.70</weight>
-        <dimensions>58,4/58,4/18,5</dimensions>
-        <param name="Объем">0.06</param>
-        <count>8</count>
-      <disabled>false</disabled><oldprice>6490</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+        <weight>10.40</weight>
+        <dimensions>61,1/61,1/20,5</dimensions>
+        <param name="Объем">0.08</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>8646</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
       <offer id="286827">
         <vendor>Sailun</vendor>
         <vendorCode>3220006925</vendorCode>
@@ -11896,6 +13336,78 @@
         <param name="Объем">0.08</param>
         <count>20</count>
       <disabled>false</disabled><oldprice>7491</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="215391">
+        <vendor>Sailun</vendor>
+        <vendorCode>3220010704</vendorCode>
+        <price>6420</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/f9f71821a6af4c1186522b47f9866457/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 195/50 15 82V Sailun Atrezzo ELITE</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">195.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">82V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>7.80</weight>
+        <dimensions>57,6/57,6/19,5</dimensions>
+        <param name="Объем">0.06</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>7062</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
+      <offer id="215011">
+        <vendor>Sailun</vendor>
+        <vendorCode>3220010725</vendorCode>
+        <price>9170</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/f9f71821a6af4c1186522b47f9866457/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 215/55 18 99V Sailun Atrezzo ELITE</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">215.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">99V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>11.60</weight>
+        <dimensions>69,4/69,4/21,5</dimensions>
+        <param name="Объем">0.10</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>10087</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="311745">
         <vendor>Sailun</vendor>
         <vendorCode>3220010752</vendorCode>
@@ -12002,7 +13514,7 @@
         <weight>10.40</weight>
         <dimensions>65,2/65,2/20,5</dimensions>
         <param name="Объем">0.09</param>
-        <count>34</count>
+        <count>26</count>
       <disabled>false</disabled><oldprice>7568</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="295782">
         <vendor>Sailun</vendor>
@@ -12328,6 +13840,42 @@
         <param name="Объем">0.06</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>6490</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
+      <offer id="283176">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTE30116F13THJ</vendorCode>
+        <price>4910</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d0a916fa3efc4bbba37b50b723e1a446/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 165/70 13 79T Triangle TE301</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">165.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R13</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">79T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>6.20</weight>
+        <dimensions>56,1/56,1/16,5</dimensions>
+        <param name="Объем">0.05</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>5401</oldprice><param name="Ширина профиля">165</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
       <offer id="282680">
         <vendor>Triangle</vendor>
         <vendorCode>CBPTE30117F13HHJ</vendorCode>
@@ -12508,6 +14056,42 @@
         <param name="Объем">0.11</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>10879</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="271150">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTE30116H14HHJ</vendorCode>
+        <price>5240</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d0a916fa3efc4bbba37b50b723e1a446/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 165/60 14 75H Triangle TE301</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">165.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R14</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">75H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>5.90</weight>
+        <dimensions>55,4/55,4/16,5</dimensions>
+        <param name="Объем">0.05</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>5764</oldprice><param name="Ширина профиля">165</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="199690">
         <vendor>Maxxis</vendor>
         <vendorCode>TP41456300</vendorCode>
@@ -12688,6 +14272,42 @@
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>7920</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="305510">
+        <vendor>Roadcruza</vendor>
+        <vendorCode>RA49703</vendorCode>
+        <price>16310</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/acd6b7e9e43e4aa681e6ea9fb78bd06f/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/75 15 104/101Q Roadcruza RA 3200 </name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">75.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">104/101Q</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Да</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>18.98</weight>
+        <dimensions>73,4/73,4/23,5</dimensions>
+        <param name="Объем">0.13</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>17941</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">75</param><param name="Камерные">Нет</param></offer>
       <offer id="407120">
         <vendor>Roadking</vendor>
         <vendorCode />
@@ -12724,6 +14344,42 @@
         <param name="Объем">0.13</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>21472</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
+      <offer id="414170">
+        <vendor>Sonix</vendor>
+        <vendorCode>3537</vendorCode>
+        <price>9760</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/1e3397b4eea74b5dafbf5aca8ead7f4b/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/70 16 107H Sonix Primemarch H/T 79</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">107H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>14.20</weight>
+        <dimensions>72,1/72,1/22,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>10736</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
       <offer id="300059">
         <vendor>Pirelli</vendor>
         <vendorCode>2807500</vendorCode>
@@ -12760,6 +14416,42 @@
         <param name="Объем">0.16</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>38192</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
+      <offer id="287506">
+        <vendor>Sailun</vendor>
+        <vendorCode>3220010724</vendorCode>
+        <price>7790</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/f9f71821a6af4c1186522b47f9866457/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 215/55 16 97W Sailun Atrezzo ELITE</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">215.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">97W</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>10.10</weight>
+        <dimensions>64,3/64,3/21,5</dimensions>
+        <param name="Объем">0.09</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>8569</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="215396">
         <vendor>Sailun</vendor>
         <vendorCode>3220010715</vendorCode>
@@ -12940,6 +14632,42 @@
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>16566</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
+      <offer id="412911">
+        <vendor>Kumho</vendor>
+        <vendorCode>2326263</vendorCode>
+        <price>19650</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/d8c58eb1011a40c2a89df99c9b51edfb/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 265/60 18 110T Kumho Road Venture AT52</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">265.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">110T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Да</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>16.50</weight>
+        <dimensions>77,5/77,5/26,5</dimensions>
+        <param name="Объем">0.16</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>21615</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="415652">
         <vendor>Sonix</vendor>
         <vendorCode>2462</vendorCode>
@@ -13120,6 +14848,42 @@
         <param name="Объем">0.13</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>12826</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="314209">
+        <vendor>Sailun</vendor>
+        <vendorCode>3220010750</vendorCode>
+        <price>8380</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/f9f71821a6af4c1186522b47f9866457/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 205/65 16 95V Sailun Atrezzo ELITE</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">95V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>11.20</weight>
+        <dimensions>67,3/67,3/20,5</dimensions>
+        <param name="Объем">0.09</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>9218</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="194002">
         <vendor>Triangle</vendor>
         <vendorCode />
@@ -13228,6 +14992,78 @@
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>7348</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="311740">
+        <vendor>Sailun</vendor>
+        <vendorCode>3220010689</vendorCode>
+        <price>7600</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/f9f71821a6af4c1186522b47f9866457/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 195/55 16 91V Sailun Atrezzo ELITE</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">195.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">91V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>8.80</weight>
+        <dimensions>62,1/62,1/19,5</dimensions>
+        <param name="Объем">0.08</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>8360</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="410380">
+        <vendor>RoadX</vendor>
+        <vendorCode />
+        <price>5440</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/94c43213053a4dee8920f03de9b0815a/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/70 14 88T RoadX RXFrost Arctic</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R14</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">88T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>8.10</weight>
+        <dimensions>61,5/61,5/18,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>5984</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
       <offer id="404151">
         <vendor>Dynamo</vendor>
         <vendorCode />
@@ -13264,6 +15100,510 @@
         <param name="Объем">0.11</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>15851</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
+      <offer id="414629">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T729909</vendorCode>
+        <price>5370</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/7b17c4109a9f4e5b9e9eb5eba11852f6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 175/65 14 86R Ikon Tyres (Nokian Tyres) Nordman RS2</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">175.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R14</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">86R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>6.90</weight>
+        <dimensions>58,3/58,3/17,5</dimensions>
+        <param name="Объем">0.06</param>
+        <count>6</count>
+      <disabled>false</disabled><oldprice>5907</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="414635">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T729899</vendorCode>
+        <price>5900</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/7b17c4109a9f4e5b9e9eb5eba11852f6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 155/70 13 75R Ikon Tyres (Nokian Tyres) Nordman RS2</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">155.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R13</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">75R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>5.80</weight>
+        <dimensions>54,7/54,7/15,5</dimensions>
+        <param name="Объем">0.04</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>6490</oldprice><param name="Ширина профиля">155</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="414641">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T729922</vendorCode>
+        <price>10270</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/7b17c4109a9f4e5b9e9eb5eba11852f6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 195/55 16 91R Ikon Tyres (Nokian Tyres) Nordman RS2</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">195.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">91R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>8.80</weight>
+        <dimensions>62,1/62,1/19,5</dimensions>
+        <param name="Объем">0.08</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>11297</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="414636">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T729927</vendorCode>
+        <price>9820</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/7b17c4109a9f4e5b9e9eb5eba11852f6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/50 17 98R Ikon Tyres (Nokian Tyres) Nordman RS2</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">98R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>12.50</weight>
+        <dimensions>65,7/65,7/22,5</dimensions>
+        <param name="Объем">0.10</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>10802</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
+      <offer id="414620">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T729917</vendorCode>
+        <price>7650</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/7b17c4109a9f4e5b9e9eb5eba11852f6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 195/60 15 92R Ikon Tyres (Nokian Tyres) Nordman RS2</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">195.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">92R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>8.40</weight>
+        <dimensions>61,5/61,5/19,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>8415</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="414633">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T729904</vendorCode>
+        <price>6810</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/7b17c4109a9f4e5b9e9eb5eba11852f6/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 175/70 14 88R Ikon Tyres (Nokian Tyres) Nordman RS2</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">175.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R14</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">88R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>7.20</weight>
+        <dimensions>60,1/60,1/17,5</dimensions>
+        <param name="Объем">0.06</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>7491</oldprice><param name="Ширина профиля">175</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="410744">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T732304</vendorCode>
+        <price>20540</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/3b3dbcd42c30411db08ccc081707b6cb/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/55 18 100V Ikon Tyres (Nokian Tyres) Autograph Aqua 3 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">100V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>14.20</weight>
+        <dimensions>71,6/71,6/23,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>22594</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="410745">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T732303</vendorCode>
+        <price>19620</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/3b3dbcd42c30411db08ccc081707b6cb/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/55 18 98V Ikon Tyres (Nokian Tyres) Autograph Aqua 3 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">98V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>12.60</weight>
+        <dimensions>70,5/70,5/22,5</dimensions>
+        <param name="Объем">0.11</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>21582</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="410964">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T732289</vendorCode>
+        <price>13000</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/3b3dbcd42c30411db08ccc081707b6cb/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 215/65 16 102V Ikon Tyres (Nokian Tyres) Autograph Aqua 3 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">215.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">102V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>12.20</weight>
+        <dimensions>68,6/68,6/21,5</dimensions>
+        <param name="Объем">0.10</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>14300</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="410702">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T732325</vendorCode>
+        <price>6550</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/936b57ca261f4f9c856349f0c9881e4a/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/60 15 88T Ikon Tyres (Nokian Tyres) Nordman SX3</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">88T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>8.30</weight>
+        <dimensions>60,3/60,3/18,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>7205</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="410782">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T732324</vendorCode>
+        <price>8410</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/936b57ca261f4f9c856349f0c9881e4a/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 195/55 15 89H Ikon Tyres (Nokian Tyres) Nordman SX3</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">195.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">89H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>8.90</weight>
+        <dimensions>59,6/59,6/19,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>9251</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="410775">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T732331</vendorCode>
+        <price>9340</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/936b57ca261f4f9c856349f0c9881e4a/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 205/70 15 96T Ikon Tyres (Nokian Tyres) Nordman SX3</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">96T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>10.70</weight>
+        <dimensions>66,8/66,8/20,5</dimensions>
+        <param name="Объем">0.09</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>10274</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="410705">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T732316</vendorCode>
+        <price>5380</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/936b57ca261f4f9c856349f0c9881e4a/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 155/80 13 79T Ikon Tyres (Nokian Tyres) Nordman SX3</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">155.00</param>
+        <param name="Высота">80.00</param>
+        <param name="Диаметр">R13</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">79T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>6.00</weight>
+        <dimensions>57,8/57,8/15,5</dimensions>
+        <param name="Объем">0.05</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>5918</oldprice><param name="Ширина профиля">155</param><param name="Высота профиля">80</param><param name="Камерные">Нет</param></offer>
+      <offer id="410756">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T732314</vendorCode>
+        <price>5140</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/936b57ca261f4f9c856349f0c9881e4a/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 155/70 13 75T Ikon Tyres (Nokian Tyres) Nordman SX3</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">155.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R13</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">75T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>5.80</weight>
+        <dimensions>54,7/54,7/15,5</dimensions>
+        <param name="Объем">0.04</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>5654</oldprice><param name="Ширина профиля">155</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
       <offer id="414670">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>TS72263</vendorCode>
@@ -13696,6 +16036,42 @@
         <param name="Объем">0.17</param>
         <count>6</count>
       <disabled>false</disabled><oldprice>36630</oldprice><param name="Ширина профиля">275</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
+      <offer id="414647">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T729604</vendorCode>
+        <price>12120</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/6391aa30a9934eb691b45646ffac230a/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/60 18 107R Ikon Tyres (Nokian Tyres) Nordman RS2 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">107R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>16.30</weight>
+        <dimensions>73,9/73,9/23,5</dimensions>
+        <param name="Объем">0.13</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>13332</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="410713">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>T732288</vendorCode>
@@ -13876,6 +16252,114 @@
         <param name="Объем">0.11</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>17259</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="410793">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T731719</vendorCode>
+        <price>15480</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/ad276b6ffa2942aeaf48aafcecfcde1a/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/60 18 100H Ikon Tyres (Nokian Tyres) Nordman S2 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">100H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>13.30</weight>
+        <dimensions>72,7/72,7/22,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>17028</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="410800">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T731717</vendorCode>
+        <price>17890</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/ad276b6ffa2942aeaf48aafcecfcde1a/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/55 18 100V Ikon Tyres (Nokian Tyres) Nordman S2 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">100V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>14.20</weight>
+        <dimensions>71,6/71,6/23,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>19679</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="414570">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72626</vendorCode>
+        <price>20820</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/7745560027784200ab5f01d0754299b9/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/65 18 110T Ikon Tyres (Nokian Tyres) Nordman 8 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">110T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>16.00</weight>
+        <dimensions>76,3/76,3/23,5</dimensions>
+        <param name="Объем">0.14</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>22902</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="414568">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>TS72628</vendorCode>
@@ -13912,6 +16396,42 @@
         <param name="Объем">0.12</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>27654</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="414578">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72618</vendorCode>
+        <price>20650</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/7745560027784200ab5f01d0754299b9/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/55 18 104T Ikon Tyres (Nokian Tyres) Nordman 8 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">104T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>14.20</weight>
+        <dimensions>71,6/71,6/23,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>22715</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="414575">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>TS72621</vendorCode>
@@ -13984,6 +16504,42 @@
         <param name="Объем">0.14</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>18733</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="414588">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72608</vendorCode>
+        <price>12440</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/7745560027784200ab5f01d0754299b9/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/60 17 103T Ikon Tyres (Nokian Tyres) Nordman 8 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>13.70</weight>
+        <dimensions>70,2/70,2/22,5</dimensions>
+        <param name="Объем">0.11</param>
+        <count>6</count>
+      <disabled>false</disabled><oldprice>13684</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="414579">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>TS72617</vendorCode>
@@ -14056,6 +16612,114 @@
         <param name="Объем">0.13</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>18832</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="414586">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72610</vendorCode>
+        <price>15970</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/7745560027784200ab5f01d0754299b9/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/65 17 106T Ikon Tyres (Nokian Tyres) Nordman 8 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">106T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>13.60</weight>
+        <dimensions>72,4/72,4/22,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>17567</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="414476">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72319</vendorCode>
+        <price>17070</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/e3f4e681d76243ecacb25de602eaa14e/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/60 18 104T Ikon Tyres (Nokian Tyres) Nordman 7 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">104T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>13.30</weight>
+        <dimensions>72,7/72,7/22,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>18777</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="414499">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72176</vendorCode>
+        <price>9890</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/0f15f2edd08f432d8498127e8b2753cc/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 195/55 15 89T Ikon Tyres (Nokian Tyres) Nordman 7</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">195.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">89T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>8.90</weight>
+        <dimensions>59,6/59,6/19,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>10879</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="414504">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>TS72288</vendorCode>
@@ -14092,6 +16756,78 @@
         <param name="Объем">0.05</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>8415</oldprice><param name="Ширина профиля">165</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="414478">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72194</vendorCode>
+        <price>16200</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/e3f4e681d76243ecacb25de602eaa14e/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/55 18 102T Ikon Tyres (Nokian Tyres) Nordman 7 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R18</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">102T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>12.60</weight>
+        <dimensions>70,5/70,5/22,5</dimensions>
+        <param name="Объем">0.11</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>17820</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
+      <offer id="414508">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72180</vendorCode>
+        <price>14320</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/0f15f2edd08f432d8498127e8b2753cc/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/55 17 101T Ikon Tyres (Nokian Tyres) Nordman 7</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">101T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>13.20</weight>
+        <dimensions>67,9/67,9/22,5</dimensions>
+        <param name="Объем">0.10</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>15752</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="410936">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>T731465</vendorCode>
@@ -14450,7 +17186,7 @@
         <weight>7.90</weight>
         <dimensions>62,2/62,2/18,5</dimensions>
         <param name="Объем">0.07</param>
-        <count>8</count>
+        <count>4</count>
       <disabled>false</disabled><oldprice>10615</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="414846">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
@@ -14884,42 +17620,6 @@
         <param name="Объем">0.06</param>
         <count>10</count>
       <disabled>false</disabled><oldprice>8646</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
-      <offer id="414604">
-        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
-        <vendorCode>TS71907</vendorCode>
-        <price>5900</price>
-        <categoryId>102</categoryId>
-        <category>Шины</category>
-        <picture>https://images.robotyre.ru/productimages/fba5692114f04f5792457b5b1ca21b0f/Big.png</picture>
-        <min-quantity>2</min-quantity>
-        <step-quantity>2</step-quantity>
-        <delivery>true</delivery>
-        <option cost="" days="0" order-before="" />
-        <pickup>true</pickup>
-        <option cost="" days="0" order-before="" />
-        <cargo-types>CIS_REQUIRED</cargo-types>
-        <name>Шина 185/65 15 92T Ikon Tyres (Nokian Tyres) Nordman 5</name>
-        <tn-ved-codes>
-          <tn-ved-code>4011100003</tn-ved-code>
-        </tn-ved-codes>
-        <param name="Ширина">185.00</param>
-        <param name="Высота">65.00</param>
-        <param name="Диаметр">R15</param>
-        <param name="Сезон">Зима / Шипы</param>
-        <param name="RunFlat">Нет</param>
-        <param name="Легкогрузовая">Нет</param>
-        <param name="Индексы">92T</param>
-        <param name="Система" />
-        <param name="Омологация" />
-        <param name="Грязевая">Нет</param>
-        <param name="A/T">Нет</param>
-        <param name="FR">Нет</param>
-        <param name="XL">Да</param>
-        <weight>7.90</weight>
-        <dimensions>62,2/62,2/18,5</dimensions>
-        <param name="Объем">0.07</param>
-        <count>6</count>
-      <disabled>false</disabled><oldprice>6490</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="414606">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>TS71923</vendorCode>
@@ -15100,6 +17800,42 @@
         <param name="Объем">0.10</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>20119</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="414556">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72566</vendorCode>
+        <price>8970</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/52b4839702174a96a082549c4a4ae4b3/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 195/60 15 92T Ikon Tyres (Nokian Tyres) Nordman 8</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">195.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">92T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>8.40</weight>
+        <dimensions>61,5/61,5/19,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>9867</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="414563">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>TS72558</vendorCode>
@@ -15172,6 +17908,114 @@
         <param name="Объем">0.04</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>7348</oldprice><param name="Ширина профиля">155</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="414609">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS71902</vendorCode>
+        <price>7890</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/fba5692114f04f5792457b5b1ca21b0f/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/70 14 92T Ikon Tyres (Nokian Tyres) Nordman 5</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R14</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">92T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>8.10</weight>
+        <dimensions>61,5/61,5/18,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>6</count>
+      <disabled>false</disabled><oldprice>8679</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
+      <offer id="414543">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72578</vendorCode>
+        <price>10350</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/52b4839702174a96a082549c4a4ae4b3/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 205/65 16 99T Ikon Tyres (Nokian Tyres) Nordman 8</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">99T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>11.20</weight>
+        <dimensions>67,3/67,3/20,5</dimensions>
+        <param name="Объем">0.09</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>11385</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="414557">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72565</vendorCode>
+        <price>8970</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/52b4839702174a96a082549c4a4ae4b3/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 185/60 15 88T Ikon Tyres (Nokian Tyres) Nordman 8</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">185.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">88T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>8.30</weight>
+        <dimensions>60,3/60,3/18,5</dimensions>
+        <param name="Объем">0.07</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>9867</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="411876">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>T731442</vendorCode>
@@ -15388,6 +18232,114 @@
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8415</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="414452">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>T730596</vendorCode>
+        <price>11380</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/373bbbdb013a4f51b34b9334473692d3/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 205/60 16 96R Ikon Tyres (Nokian Tyres) Autograph Snow 3</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Зима</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">96R</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>10.40</weight>
+        <dimensions>65,2/65,2/20,5</dimensions>
+        <param name="Объем">0.09</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>12518</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="414522">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72291</vendorCode>
+        <price>9040</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/0f15f2edd08f432d8498127e8b2753cc/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 205/65 15 99T Ikon Tyres (Nokian Tyres) Nordman 7</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R15</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">99T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>9.60</weight>
+        <dimensions>64,8/64,8/20,5</dimensions>
+        <param name="Объем">0.09</param>
+        <count>6</count>
+      <disabled>false</disabled><oldprice>9944</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="414532">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72181</vendorCode>
+        <price>15890</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/0f15f2edd08f432d8498127e8b2753cc/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/55 17 103T Ikon Tyres (Nokian Tyres) Nordman 7</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">55.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>12.30</weight>
+        <dimensions>69/69/23,5</dimensions>
+        <param name="Объем">0.11</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>17479</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="414521">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>TS72292</vendorCode>
@@ -15424,6 +18376,114 @@
         <param name="Объем">0.07</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>8976</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="414530">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72299</vendorCode>
+        <price>12160</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/0f15f2edd08f432d8498127e8b2753cc/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 205/50 17 93T Ikon Tyres (Nokian Tyres) Nordman 7</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">205.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">93T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>10.10</weight>
+        <dimensions>63,7/63,7/20,5</dimensions>
+        <param name="Объем">0.08</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>13376</oldprice><param name="Ширина профиля">205</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
+      <offer id="414505">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72287</vendorCode>
+        <price>7640</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/0f15f2edd08f432d8498127e8b2753cc/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 155/65 14 75T Ikon Tyres (Nokian Tyres) Nordman 7</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">155.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R14</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">75T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>5.70</weight>
+        <dimensions>55,7/55,7/15,5</dimensions>
+        <param name="Объем">0.05</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>8404</oldprice><param name="Ширина профиля">155</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="414525">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72169</vendorCode>
+        <price>7070</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/0f15f2edd08f432d8498127e8b2753cc/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 155/80 13 79T Ikon Tyres (Nokian Tyres) Nordman 7</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">155.00</param>
+        <param name="Высота">80.00</param>
+        <param name="Диаметр">R13</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">79T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>6.00</weight>
+        <dimensions>57,8/57,8/15,5</dimensions>
+        <param name="Объем">0.05</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>7777</oldprice><param name="Ширина профиля">155</param><param name="Высота профиля">80</param><param name="Камерные">Нет</param></offer>
       <offer id="414393">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>T730601</vendorCode>
@@ -15640,6 +18700,42 @@
         <param name="Объем">0.14</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>27984</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="414697">
+        <vendor>Ikon Tyres (Nokian Tyres)</vendor>
+        <vendorCode>TS72246</vendorCode>
+        <price>20750</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/9ad54221fca1418dbe6ef5cc59b85066/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/60 17 103T Ikon Tyres (Nokian Tyres) Autograph Ice 9 SUV</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">60.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Зима / Шипы</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>13.70</weight>
+        <dimensions>70,2/70,2/22,5</dimensions>
+        <param name="Объем">0.11</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>22825</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
       <offer id="414673">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>TS72382</vendorCode>
@@ -16180,6 +19276,42 @@
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>9658</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="429246">
+        <vendor>Barez</vendor>
+        <vendorCode />
+        <price>8780</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/0274ac7a29a84eecadc0cf7afb82499b/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 215/65 16 98H Barez Sportech S630</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">215.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">98H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Да</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>13.42</weight>
+        <dimensions>68,6/68,6/21,5</dimensions>
+        <param name="Объем">0.10</param>
+        <count>8</count>
+      <disabled>false</disabled><oldprice>9658</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="429332">
         <vendor>Triangle</vendor>
         <vendorCode />
@@ -16324,6 +19456,42 @@
         <param name="Объем">0.16</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>25212</oldprice><param name="Ширина профиля">265</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
+      <offer id="435385">
+        <vendor>Sonix</vendor>
+        <vendorCode>6141</vendorCode>
+        <price>13030</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/e626fbcb3a6947eea0b1058648a85915/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 245/50 19 105V Sonix L-Zeal 56</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">245.00</param>
+        <param name="Высота">50.00</param>
+        <param name="Диаметр">R19</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">105V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>15.90</weight>
+        <dimensions>72,8/72,8/24,5</dimensions>
+        <param name="Объем">0.13</param>
+        <count>8</count>
+      <disabled>false</disabled><oldprice>14333</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">50</param><param name="Камерные">Нет</param></offer>
       <offer id="435744">
         <vendor>Kapsen</vendor>
         <vendorCode />
@@ -18122,7 +21290,7 @@
         <weight>15.10</weight>
         <dimensions>74,1/74,1/23,5</dimensions>
         <param name="Объем">0.13</param>
-        <count>8</count>
+        <count>4</count>
       <disabled>false</disabled><oldprice>14410</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">55</param><param name="Камерные">Нет</param></offer>
       <offer id="445054">
         <vendor>Sailun</vendor>
@@ -18808,6 +21976,78 @@
         <param name="Объем">0.12</param>
         <count>12</count>
       <disabled>false</disabled><oldprice>11528</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="446156">
+        <vendor>Sailun</vendor>
+        <vendorCode>3220021517</vendorCode>
+        <price>12310</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/16b9615ff1594b1a94027b0efb80b579/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 245/65 17 107H Sailun Turismo SV57</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">245.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">107H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>16.80</weight>
+        <dimensions>75/75/24,5</dimensions>
+        <param name="Объем">0.14</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>13541</oldprice><param name="Ширина профиля">245</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
+      <offer id="446177">
+        <vendor>Sailun</vendor>
+        <vendorCode>3220021520</vendorCode>
+        <price>10870</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/16b9615ff1594b1a94027b0efb80b579/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 225/70 16 103T Sailun Turismo SV57</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">225.00</param>
+        <param name="Высота">70.00</param>
+        <param name="Диаметр">R16</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">103T</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>14.20</weight>
+        <dimensions>72,1/72,1/22,5</dimensions>
+        <param name="Объем">0.12</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>11957</oldprice><param name="Ширина профиля">225</param><param name="Высота профиля">70</param><param name="Камерные">Нет</param></offer>
       <offer id="446758">
         <vendor>Sailun</vendor>
         <vendorCode>3220004921</vendorCode>
@@ -18844,6 +22084,42 @@
         <param name="Объем">0.07</param>
         <count>16</count>
       <disabled>false</disabled><oldprice>6633</oldprice><param name="Ширина профиля">185</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="446760">
+        <vendor>Sailun</vendor>
+        <vendorCode>3220020352</vendorCode>
+        <price>11460</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/e18a7af0bee749dc9d85aacb0feb2974/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/45 19 99Y Sailun Atrezzo ZSR2</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">45.00</param>
+        <param name="Диаметр">R19</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">99Y</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Да</param>
+        <weight>12.40</weight>
+        <dimensions>69,4/69,4/23,5</dimensions>
+        <param name="Объем">0.11</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>12606</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
       <offer id="448221">
         <vendor>Sailun</vendor>
         <vendorCode>3220020341</vendorCode>
@@ -18880,6 +22156,42 @@
         <param name="Объем">0.08</param>
         <count>8</count>
       <disabled>false</disabled><oldprice>9372</oldprice><param name="Ширина профиля">215</param><param name="Высота профиля">45</param><param name="Камерные">Нет</param></offer>
+      <offer id="448223">
+        <vendor>Sailun</vendor>
+        <vendorCode>3220015864</vendorCode>
+        <price>12050</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/16b9615ff1594b1a94027b0efb80b579/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 235/65 17 108V Sailun Turismo SV57</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100009</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">235.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R17</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">108V</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>15.90</weight>
+        <dimensions>73,7/73,7/23,5</dimensions>
+        <param name="Объем">0.13</param>
+        <count>8</count>
+      <disabled>false</disabled><oldprice>13255</oldprice><param name="Ширина профиля">235</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       <offer id="449839">
         <vendor>Ikon Tyres (Nokian Tyres)</vendor>
         <vendorCode>TS71911</vendorCode>
@@ -18916,6 +22228,42 @@
         <param name="Объем">0.07</param>
         <count>4</count>
       <disabled>false</disabled><oldprice>8327</oldprice><param name="Ширина профиля">195</param><param name="Высота профиля">60</param><param name="Камерные">Нет</param></offer>
+      <offer id="450536">
+        <vendor>Triangle</vendor>
+        <vendorCode>CBPTE30715G14HHJ</vendorCode>
+        <price>5570</price>
+        <categoryId>102</categoryId>
+        <category>Шины</category>
+        <picture>https://images.robotyre.ru/productimages/233a5d2209f64e0795937c0116da5350/Big.png</picture>
+        <min-quantity>2</min-quantity>
+        <step-quantity>2</step-quantity>
+        <delivery>true</delivery>
+        <option cost="" days="0" order-before="" />
+        <pickup>true</pickup>
+        <option cost="" days="0" order-before="" />
+        <cargo-types>CIS_REQUIRED</cargo-types>
+        <name>Шина 155/65 14 65H Triangle ReliaX TE307</name>
+        <tn-ved-codes>
+          <tn-ved-code>4011100003</tn-ved-code>
+        </tn-ved-codes>
+        <param name="Ширина">155.00</param>
+        <param name="Высота">65.00</param>
+        <param name="Диаметр">R14</param>
+        <param name="Сезон">Лето</param>
+        <param name="RunFlat">Нет</param>
+        <param name="Легкогрузовая">Нет</param>
+        <param name="Индексы">65H</param>
+        <param name="Система" />
+        <param name="Омологация" />
+        <param name="Грязевая">Нет</param>
+        <param name="A/T">Нет</param>
+        <param name="FR">Нет</param>
+        <param name="XL">Нет</param>
+        <weight>5.70</weight>
+        <dimensions>55,7/55,7/15,5</dimensions>
+        <param name="Объем">0.05</param>
+        <count>4</count>
+      <disabled>false</disabled><oldprice>6127</oldprice><param name="Ширина профиля">155</param><param name="Высота профиля">65</param><param name="Камерные">Нет</param></offer>
       </offers>
   </shop>
 </yml_catalog>
