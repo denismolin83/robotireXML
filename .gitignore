@@ -1,8 +1,15 @@
 robotyrexml-97b85c8843b9.json
 .env
-/venv
-/.idea
-/src/images_info
+
+# Игнорировать папки
 __pycache__/
-*.pyc
-/src/__pycache__/
+venv/
+*.py[cod]
+
+# Игнорировать файлы
+*.log
+*.tmp
+
+# Игнорировать IDE-файлы
+.vscode/
+.idea/
