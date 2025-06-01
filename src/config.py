@@ -11,6 +11,8 @@ class Settings(BaseSettings):
     REMOTE_FILE_PATH: str
     REMOTE_IMAGES_PATH: str
     REMOTE_FILE_NAME: str
+    FOLDER_ID_YANDEX: str
+    API_KEY_YANDEX: str
     model_config = SettingsConfigDict(
         env_file=os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."  , ".env")
     )
