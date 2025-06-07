@@ -1,10 +1,12 @@
 from src.config import settings
+from src.db.db_connect import db_add_all_items_from_sheet
 from src.utils.delete_elements import delete_elements
 from src.utils.generete_images_info import generate_images_info
 from src.utils.get_worksheet import get_worksheet
 from src.utils.get_xml_tree import get_xml_tree
 from src.utils.save_to_ftp import save_to_ftp
 from src.utils.update_data_in_worksheet import update_data_in_worksheet
+
 
 #получаем корневой элемент xml роботайра по ссылке
 tree = get_xml_tree(settings.URL_XML)
@@ -27,3 +29,7 @@ save_to_ftp(file_parth_local=['output.xml'],
 
 #генерируем фото с инфографикой
 #generate_images_info(worksheet=worksheet)
+
+# Добавляем все данные в БД
+#db_add_all_items_from_sheet(worksheet=worksheet)
+

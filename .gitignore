@@ -13,3 +13,4 @@ venv/
 # Игнорировать IDE-файлы
 .vscode/
 .idea/
+*.db
