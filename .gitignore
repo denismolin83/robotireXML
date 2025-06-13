@@ -9,8 +9,11 @@ venv/
 # Игнорировать файлы
 *.log
 *.tmp
+*.png
 
 # Игнорировать IDE-файлы
 .vscode/
 .idea/
 *.db
+
+src/images_info

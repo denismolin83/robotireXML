@@ -1,7 +1,7 @@
 import requests
 from src.config import settings
 
-def get_yandexgpt_description(name: str, key_words: list[str]):
+def get_yandexgpt_description(name: str, key_words: list[str]) -> str:
     key_words_sting = ', '.join(key_words)
 
 
@@ -62,7 +62,8 @@ def get_yandexgpt_description(name: str, key_words: list[str]):
 
     response = requests.post(url, headers=headers, json=prompt)
     result = response.json()
-    print(result['result']['alternatives'][0]['message']['text'])
+    #print(result['result']['alternatives'][0]['message']['text'])
+    return result['result']['alternatives'][0]['message']['text']
 
 
 get_yandexgpt_description(name='Шина 165/65 14 79H Triangle TE301', key_words=['Размер 165/65 14', 'Летние', 'Индексы скорости и нагрузки: 79H'])
